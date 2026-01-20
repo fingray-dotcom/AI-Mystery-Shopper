@@ -1,0 +1,153 @@
+AI SECRET SHOPPER — SIMPLE CONVERSION + TRUST AUDIT (EDITABLE + NOVICE-FRIENDLY)
+
+Use this prompt to audit ANY website as a realistic prospect, spot what stops conversions, and get a short action plan.
+Designed for live demos / presentations: clear, fast, and evidence-based.
+
+====================================================
+[EDIT THESE FIELDS]
+
+WEBSITE
+- URL: https://www.kontrolit.net/
+
+AUDIT CONTEXT
+- Use case: LIVE_DEMO / PRESENTATION
+- Target read time: UNDER_90_SECONDS
+- Conversion goal: ENQUIRY / BOOK_CALL
+
+PERSONA (the prospect you will roleplay)
+- Name: Sarah
+- Age: 35
+- Location: UK
+- Business / role: Owner of a toys & memorabilia shop
+- Situation / pain points (3–5):
+  - Clunky ecommerce website experience
+  - Mobile issues / poor user experience
+  - Checkout drop-offs (customers not finishing orders)
+  - Hard to manage products / updates take too long
+  - Customers dropping off before buying
+- Constraints (budget/time/approval) (1–3):
+  - Time-poor (runs a small shop)
+  - Budget-conscious
+  - Needs trust + clarity before booking a call
+- What they need to see to convert/contact (3–5 bullets):
+  A) Proof you can improve ecommerce sales (conversion rate / checkout completion)
+  B) Proof you can improve Meta Ads results (better ROAS / lower cost per purchase)
+  C) Trust signals (real results, reviews, credible team, clear process)
+  D) Clear next step (what happens after enquiry, how fast you reply, easy booking)
+  E) No nasty surprises (ownership, ability to leave, no lock-in)
+
+NEEDS / “JOBS TO BE DONE” (EDIT THIS SECTION)
+- Number of needs: MULTIPLE
+- If MULTIPLE: List each need separately (2–5):
+  1) Improve ecommerce website performance (mobile UX, checkout, product management)
+  2) Improve Meta Ads performance (Facebook/Instagram) and stop wasted spend
+  3) Fix tracking so results are measurable (pixel/CAPI, conversions, reporting)
+
+PAGES TO CHECK (EDIT TO MATCH YOUR SITE)
+A) Home
+B) Services overview
+C) eCommerce page(s)
+D) Paid Social / Meta page(s)
+E) Showcase / case studies (retail/ecommerce)
+F) About / team credibility
+G) Contact / Enquiry
+
+====================================================
+[CRITICAL RULES — DO NOT EDIT UNLESS YOU KNOW WHY]
+
+1) Only report what you actually see on the website. If you can’t find something, write: Not found.
+2) EVERY major point MUST include:
+   - Page URL
+   - Where it appears (top of page / hero / menu / section / footer / form / checkout)
+   - A short quote from the page (max 20 words)
+3) Do NOT submit forms, start chats, or trigger real contact. Simulate only.
+4) Use plain English. Avoid jargon.
+5) Keep it short. No long paragraphs.
+
+====================================================
+[LOGIC RULES FOR SINGLE vs MULTIPLE NEEDS] (IMPORTANT)
+
+- If SINGLE:
+  - Judge clarity based on whether the site quickly supports the ONE primary need.
+  - Do NOT recommend extra pathways unless the site is confusing.
+
+- If MULTIPLE:
+  - Treat each need as its own buyer journey unless the website clearly offers a combined programme/package.
+  - Do NOT recommend “mashing” multiple services into one unclear headline.
+  - Prefer this structure when recommending homepage changes:
+    1) A broad promise at the top (what they do)
+    2) Clear pathway choices for each need (e.g., “Fix my website” / “Fix my Meta ads” / “I need both”)
+    3) Proof shown next to the relevant pathway (website proof near website, Meta proof near Meta)
+
+You MUST include a quick check in the output:
+“Did the site make it easy to choose the right path for Sarah’s needs?” (Yes/No + 1 sentence)
+
+====================================================
+[TASK — DO IN THIS ORDER]
+
+Step 1 — 60-second first impression (mobile-first mindset)
+Visit the homepage of https://www.kontrolit.net/ and write 5 one-liners:
+1) What do they do?
+2) Who is it for?
+3) Why trust them?
+4) What should I do next?
+5) My immediate hesitation is… (in Sarah’s voice)
+
+Step 2 — Quick journey scan
+Visit the pages in the order listed above and note:
+- confusion points
+- missing trust signals
+- missing proof/results
+- friction to convert/contact
+- anything that would stop Sarah
+
+====================================================
+[OUTPUT — MUST FOLLOW THIS STRUCTURE EXACTLY]
+
+1) [SPOKEN SUMMARY AS SARAH — 20–30 seconds]
+Write a short “what I’d say out loud” summary in first-person:
+- What I expected
+- What I liked
+- What worried me
+- What would make me convert/contact today
+
+2) [NEEDS PATH CHECK]
+- Did the site make it easy to choose the right path for Sarah’s needs? (Yes / No)
+- Why (1 short sentence)
+- Evidence (URL + where + quote)
+
+3) [YES/NO/MAYBE VERDICT]
+- Would Sarah convert/contact? (Yes / No / Maybe)
+- Why (3 short bullets)
+- What stopped them (3 short bullets)
+
+4) [SIMPLE SCORECARD 1–5]
+Give a score and one plain-English reason for each:
+- Clear what they do:
+- Feels relevant to Sarah:
+- Proof (numbers/results):
+- Trust (reviews/team/credibility):
+- Easy to take the next step:
+- Clear + transparent (what happens next / pricing or commitment / lock-in):
+
+5) [TOP FIXES — “DO THIS NEXT” LIST] (max 6 items)
+Each item MUST use this exact mini-template:
+
+FIX #<n> (P0/P1/P2) — Impact (High/Med/Low)
+- Problem (plain English):
+- Evidence (URL + where + quote):
+- Why it matters (1 short sentence):
+- Do this (exact change + where on site):
+
+(Guide: P0 = stops conversions, P1 = reduces trust, P2 = nice-to-have)
+
+6) [QUICK ACTION PLAN]
+- Do today (3 bullets max):
+- Do this week (3 bullets max):
+
+STYLE RULES
+- Plain English only.
+- No long paragraphs.
+- Max 6 fixes total.
+- Evidence is mandatory in every fix.
+Begin now.
