@@ -1,0 +1,148 @@
+AI SECRET SHOPPER — SIMPLE CONVERSION + TRUST AUDIT (EDITABLE + NOVICE-FRIENDLY)
+
+Use this prompt to audit ANY website as a realistic prospect, spot what stops conversions, and get a short action plan.
+Designed for live demos / presentations: clear, fast, and evidence-based.
+
+====================================================
+[EDIT THESE FIELDS]
+
+WEBSITE
+- URL: {WEBSITE_URL}
+
+AUDIT CONTEXT
+- Use case: {LIVE_DEMO / PRESENTATION / INTERNAL_REVIEW}
+- Target read time: {UNDER_90_SECONDS / 2_MINUTES / 5_MINUTES}
+- Conversion goal: {ENQUIRY / BOOK_CALL / BUY_NOW / GET_QUOTE / SIGN_UP}
+
+PERSONA (the prospect you will roleplay)
+- Name: {PERSONA_NAME}
+- Age: {AGE}
+- Location: {LOCATION}
+- Business / role: {ROLE_OR_BUSINESS}
+- Situation / pain points (3–5): {PAIN_POINT_1}; {PAIN_POINT_2}; {PAIN_POINT_3}; {PAIN_POINT_4}; {PAIN_POINT_5}
+- Constraints (budget/time/approval) (1–3): {CONSTRAINT_1}; {CONSTRAINT_2}; {CONSTRAINT_3}
+- What they need to see to convert/contact (3–5 bullets):
+  A) {NEED_A}
+  B) {NEED_B}
+  C) {NEED_C}
+  D) {NEED_D}
+  E) {NEED_E}
+
+NEEDS / “JOBS TO BE DONE” (EDIT THIS SECTION)
+- Number of needs: {SINGLE / MULTIPLE}
+- If SINGLE: Primary need = {PRIMARY_NEED}
+- If MULTIPLE: List each need separately (2–5):
+  1) {NEED_1}
+  2) {NEED_2}
+  3) {NEED_3}
+  4) {NEED_4}
+  5) {NEED_5}
+
+PAGES TO CHECK (EDIT TO MATCH YOUR SITE)
+A) Home
+B) {PAGE_NAME_2 or Services}
+C) {PAGE_NAME_3}
+D) {PAGE_NAME_4}
+E) {PAGE_NAME_5}
+F) {PAGE_NAME_6 or About/Team}
+G) {PAGE_NAME_7 or Contact/Checkout}
+
+====================================================
+[CRITICAL RULES — DO NOT EDIT UNLESS YOU KNOW WHY]
+
+1) Only report what you actually see on the website. If you can’t find something, write: Not found.
+2) EVERY major point MUST include:
+   - Page URL
+   - Where it appears (top of page / hero / menu / section / footer / form / checkout)
+   - A short quote from the page (max 20 words)
+3) Do NOT submit forms, start chats, or trigger real contact. Simulate only.
+4) Use plain English. Avoid jargon.
+5) Keep it short. No long paragraphs.
+
+====================================================
+[LOGIC RULES FOR SINGLE vs MULTIPLE NEEDS] (IMPORTANT)
+
+- If {SINGLE / MULTIPLE} = SINGLE:
+  - Judge clarity based on whether the site quickly supports the ONE primary need.
+  - Do NOT recommend extra pathways unless the site is confusing.
+
+- If {SINGLE / MULTIPLE} = MULTIPLE:
+  - Treat each need as its own buyer journey unless the website clearly offers a combined programme/package.
+  - Do NOT recommend “mashing” multiple services into one unclear headline.
+  - Prefer this structure when recommending homepage changes:
+    1) A broad promise at the top (what they do)
+    2) Clear pathway choices for each need (e.g., “Need X” / “Need Y” / “Need both”)
+    3) Proof shown next to the relevant pathway (proof for X near X, proof for Y near Y)
+
+You MUST include a quick check in the output:
+“Did the site make it easy to choose the right path for the persona’s needs?” (Yes/No + 1 sentence)
+
+====================================================
+[TASK — DO IN THIS ORDER]
+
+Step 1 — 60-second first impression (mobile-first mindset)
+Visit the homepage of {WEBSITE_URL} and write 5 one-liners:
+1) What do they do?
+2) Who is it for?
+3) Why trust them?
+4) What should I do next?
+5) My immediate hesitation is… (in {PERSONA_NAME}’s voice)
+
+Step 2 — Quick journey scan
+Visit the pages in the order listed above and note:
+- confusion points
+- missing trust signals
+- missing proof/results
+- friction to convert/contact
+- anything that would stop {PERSONA_NAME}
+
+====================================================
+[OUTPUT — MUST FOLLOW THIS STRUCTURE EXACTLY]
+
+1) [SPOKEN SUMMARY AS {PERSONA_NAME} — 20–30 seconds]
+Write a short “what I’d say out loud” summary in first-person:
+- What I expected
+- What I liked
+- What worried me
+- What would make me convert/contact today
+
+2) [NEEDS PATH CHECK]
+- Did the site make it easy to choose the right path for the persona’s needs? (Yes / No)
+- Why (1 short sentence)
+- Evidence (URL + where + quote)
+
+3) [YES/NO/MAYBE VERDICT]
+- Would {PERSONA_NAME} convert/contact? (Yes / No / Maybe)
+- Why (3 short bullets)
+- What stopped them (3 short bullets)
+
+4) [SIMPLE SCORECARD 1–5]
+Give a score and one plain-English reason for each:
+- Clear what they do:
+- Feels relevant to the persona:
+- Proof (numbers/results):
+- Trust (reviews/team/credibility):
+- Easy to take the next step:
+- Clear + transparent (what happens next / pricing or commitment / lock-in):
+
+5) [TOP FIXES — “DO THIS NEXT” LIST] (max 6 items)
+Each item MUST use this exact mini-template:
+
+FIX #<n> (P0/P1/P2) — Impact (High/Med/Low)
+- Problem (plain English):
+- Evidence (URL + where + quote):
+- Why it matters (1 short sentence):
+- Do this (exact change + where on site):
+
+(Guide: P0 = stops conversions, P1 = reduces trust, P2 = nice-to-have)
+
+6) [QUICK ACTION PLAN]
+- Do today (3 bullets max):
+- Do this week (3 bullets max):
+
+STYLE RULES
+- Plain English only.
+- No long paragraphs.
+- Max 6 fixes total.
+- Evidence is mandatory in every fix.
+Begin now.
