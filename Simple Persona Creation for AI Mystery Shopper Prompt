@@ -38,10 +38,6 @@ Once the AI gives you the completed prompt back, you can run that completed prom
 
 Paste your website address.
 
-**Example:**
-
-https://www.example.co.uk/
-
 ## YOUR WEBSITE:
 
 [PASTE WEBSITE ADDRESS HERE]
@@ -52,8 +48,6 @@ https://www.example.co.uk/
 
 Type your company name.
 
-If the name is obvious from your website, you can still add it here to avoid any confusion.
-
 ## YOUR COMPANY NAME:
 
 [TYPE COMPANY NAME HERE]
@@ -62,7 +56,7 @@ If the name is obvious from your website, you can still add it here to avoid any
 
 # ✏️ 3. WHAT DOES YOUR COMPANY DO?
 
-Explain this in normal language.
+Explain this in plain English.
 
 One or two sentences is enough.
 
