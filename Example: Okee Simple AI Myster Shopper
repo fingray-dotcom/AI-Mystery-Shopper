@@ -1,0 +1,196 @@
+AI SECRET SHOPPER — SIMPLE CONVERSION + TRUST AUDIT (EDITABLE + NOVICE-FRIENDLY)
+
+Use this prompt to audit ANY website as a realistic prospect, spot what stops conversions, and get a short action plan.
+Designed for live demos / presentations: clear, fast, and evidence-based.
+
+====================================================
+[EDIT THESE FIELDS]
+
+WEBSITE
+
+* URL: https://www.okeedrive.co.uk/
+
+AUDIT CONTEXT
+
+* Use case: LIVE_DEMO / PRESENTATION
+* Target read time: UNDER_90_SECONDS
+* Conversion goal: ENQUIRY / BOOK_APPOINTMENT
+
+PERSONA (the prospect you will roleplay)
+
+* Name: Claire
+* Age: 42
+* Location: Wellington / Taunton, Somerset
+* Situation: Busy working parent who relies heavily on her family car
+* Vehicle: Modern hybrid family car, around 4–5 years old
+* Situation / pain points (3–5):
+
+  * Car is due a service and MOT soon
+  * An intermittent dashboard warning light has appeared
+  * Unsure whether the issue is mechanical, electrical or connected to one of the car’s sensors
+  * Wants a garage that genuinely understands modern hybrid vehicles
+  * Has had previous experiences where garages have used jargon or recommended work without explaining it properly
+* Constraints (budget/time/approval) (1–3):
+
+  * Needs the car for work and family life, so downtime matters
+  * Does not want an unexpected repair bill
+  * Wants to trust the garage before handing over the vehicle
+* What they need to see to convert/contact (3–5 bullets):
+  A) Clear proof the garage can service and diagnose modern hybrid vehicles
+  B) Confidence they can investigate warning lights, electronics, sensors and ADAS-related problems properly
+  C) Strong trust signals such as recognised accreditations, trained technicians, reviews and evidence of the workshop
+  D) Reassurance that problems and costs will be clearly explained before repair work goes ahead
+  E) A simple way to book, enquire or speak to somebody if she is unsure what service she needs
+
+NEEDS / “JOBS TO BE DONE” (EDIT THIS SECTION)
+
+* Number of needs: MULTIPLE
+* If MULTIPLE: List each need separately (2–5):
+
+  1. Arrange routine servicing and MOT without unnecessary hassle
+  2. Diagnose an intermittent warning light / possible electrical, sensor or ADAS issue
+  3. Confirm the garage has the expertise and equipment to work safely on a modern hybrid vehicle
+
+PAGES TO CHECK (EDIT TO MATCH YOUR SITE)
+A) Home
+B) Services overview
+C) Servicing
+D) MOT
+E) Repairs & Diagnostics / Lights & Electrics
+F) EV Repairs & Maintenance
+G) About Us / Team / credibility
+H) Facilities / Garage / Gallery
+I) Contact / Enquiry / Booking
+
+====================================================
+[CRITICAL RULES — DO NOT EDIT UNLESS YOU KNOW WHY]
+
+1. Only report what you actually see on the website. If you can’t find something, write: Not found.
+2. EVERY major point MUST include:
+
+   * Page URL
+   * Where it appears (top of page / hero / menu / section / footer / form / booking)
+   * A short quote from the page (max 20 words)
+3. Do NOT submit forms, start chats, make bookings, or trigger real contact. Simulate only.
+4. Use plain English. Avoid jargon.
+5. Keep it short. No long paragraphs.
+
+====================================================
+[LOGIC RULES FOR SINGLE vs MULTIPLE NEEDS] (IMPORTANT)
+
+* If SINGLE:
+
+  * Judge clarity based on whether the site quickly supports the ONE primary need.
+  * Do NOT recommend extra pathways unless the site is confusing.
+
+* If MULTIPLE:
+
+  * Treat each need as its own customer journey unless the website clearly brings them together.
+  * Do NOT recommend “mashing” multiple services into one unclear headline.
+  * Prefer this structure when recommending homepage changes:
+
+    1. A broad promise at the top explaining what the garage does and why it is different
+    2. Clear pathway choices for each need, for example:
+
+       * “Service or MOT my car”
+       * “Diagnose a warning light or fault”
+       * “Hybrid or EV help”
+    3. Proof shown next to the relevant pathway, for example:
+
+       * servicing/MOT reassurance near routine vehicle care
+       * diagnostic expertise near fault-finding
+       * EV/hybrid qualifications and equipment near EV services
+
+You MUST include a quick check in the output:
+“Did the site make it easy to choose the right path for Claire’s needs?” (Yes/No + 1 sentence)
+
+====================================================
+[TASK — DO IN THIS ORDER]
+
+Step 1 — 60-second first impression (mobile-first mindset)
+
+Visit the homepage of https://www.okeedrive.co.uk/ and write 5 one-liners:
+
+1. What do they do?
+2. Who is it for?
+3. Why trust them?
+4. What should I do next?
+5. My immediate hesitation is… (in Claire’s voice)
+
+Step 2 — Quick journey scan
+
+Visit the pages in the order listed above and note:
+
+* confusion points
+* missing trust signals
+* missing proof of expertise
+* missing information about what happens next
+* friction when trying to enquire or book
+* anything that would stop Claire trusting Okee with her car
+* whether routine services and specialist modern-vehicle services are easy to distinguish
+* whether Claire can quickly work out what to do if she does NOT know exactly what is wrong with her car
+
+====================================================
+[OUTPUT — MUST FOLLOW THIS STRUCTURE EXACTLY]
+
+1. [SPOKEN SUMMARY AS CLAIRE — 20–30 seconds]
+
+Write a short “what I’d say out loud” summary in first-person:
+
+* What I expected
+* What I liked
+* What worried me
+* What would make me convert/contact today
+
+2. [NEEDS PATH CHECK]
+
+* Did the site make it easy to choose the right path for Claire’s needs? (Yes / No)
+* Why (1 short sentence)
+* Evidence (URL + where + quote)
+
+3. [YES/NO/MAYBE VERDICT]
+
+* Would Claire convert/contact? (Yes / No / Maybe)
+* Why (3 short bullets)
+* What stopped her (3 short bullets)
+
+4. [SIMPLE SCORECARD 1–5]
+
+Give a score and one plain-English reason for each:
+
+* Clear what they do:
+* Feels relevant to Claire:
+* Proof of technical expertise:
+* Trust (reviews/team/accreditations/credibility):
+* Easy to take the next step:
+* Clear + transparent (what happens next / costs / approval before work):
+
+5. [TOP FIXES — “DO THIS NEXT” LIST] (max 6 items)
+
+Each item MUST use this exact mini-template:
+
+FIX #<n> (P0/P1/P2) — Impact (High/Med/Low)
+
+* Problem (plain English):
+* Evidence (URL + where + quote):
+* Why it matters (1 short sentence):
+* Do this (exact change + where on site):
+
+(Guide: P0 = stops conversions, P1 = reduces trust, P2 = nice-to-have)
+
+6. [QUICK ACTION PLAN]
+
+* Do today (3 bullets max):
+* Do this week (3 bullets max):
+
+STYLE RULES
+
+* Plain English only.
+* No long paragraphs.
+* Max 6 fixes total.
+* Evidence is mandatory in every fix.
+* Stay in Claire’s mindset when judging whether information is useful or reassuring.
+* Do not reward technical information simply for existing. Judge whether a normal customer can understand why it matters.
+* Give more weight to trust, reassurance, clarity and ease of booking than to technical detail alone.
+
+Begin now.
