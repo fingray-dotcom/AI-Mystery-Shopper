@@ -1,0 +1,2318 @@
+# AI SECRET SHOPPER
+
+## Universal Customer Conversion + Trust Audit
+
+# ====================================================
+
+# 👋 START HERE - THIS IS THE ONLY SECTION YOU EDIT
+
+# ====================================================
+
+You do **not** need to create a customer persona.
+
+You do **not** need to understand marketing terminology.
+
+You only need to tell the AI a few basic things about your business.
+
+The AI will then:
+
+1. Review your website
+2. Understand what your business does
+3. Create a realistic customer persona
+4. Work out why that customer would visit your website
+5. Complete all of the customer information automatically
+6. Return a completed **AI Secret Shopper master prompt**
+7. Make that completed prompt ready for you to run as your website audit
+
+## IMPORTANT
+
+### On this first run, DO NOT run the Secret Shopper audit.
+
+The purpose of this first run is only to **prepare the completed audit prompt**.
+
+Once the AI gives you the completed prompt back, you can run that completed prompt separately to carry out the Secret Shopper audit.
+
+---
+
+# ✏️ 1. YOUR WEBSITE
+
+Paste your website address.
+
+**Example:**
+
+https://www.example.co.uk/
+
+## YOUR WEBSITE:
+
+[PASTE WEBSITE ADDRESS HERE]
+
+---
+
+# ✏️ 2. YOUR COMPANY NAME
+
+Type your company name.
+
+If the name is obvious from your website, you can still add it here to avoid any confusion.
+
+## YOUR COMPANY NAME:
+
+[TYPE COMPANY NAME HERE]
+
+---
+
+# ✏️ 3. WHAT DOES YOUR COMPANY DO?
+
+Explain this in normal language.
+
+One or two sentences is enough.
+
+Do not worry about writing marketing copy.
+
+**Example:**
+
+> We are a building company specialising in home extensions, renovations and structural alterations.
+
+or:
+
+> We sell beds and mattresses from our showroom and help people choose the right bed for their needs.
+
+or:
+
+> We provide software that helps estates teams manage compliance across multiple properties.
+
+## YOUR ANSWER:
+
+[TYPE A SHORT DESCRIPTION HERE]
+
+---
+
+# ✏️ 4. WHAT ARE THE MAIN THINGS YOU SELL OR DO?
+
+List the most important products or services.
+
+You do not need to list everything.
+
+**Example:**
+
+* Home extensions
+* Renovations
+* Loft conversions
+* Structural alterations
+
+## YOUR ANSWER:
+
+[TYPE YOUR MAIN PRODUCTS OR SERVICES HERE]
+
+---
+
+# ✏️ 5. WHAT WOULD YOU MOST LIKE SOMEONE TO DO ON YOUR WEBSITE?
+
+Choose the closest option.
+
+* [ ] Buy something
+* [ ] Make an enquiry
+* [ ] Request a quote
+* [ ] Call us
+* [ ] Book an appointment
+* [ ] Arrange a consultation
+* [ ] Request a demonstration
+* [ ] Visit us
+* [ ] Sign up / register
+* [ ] Something else
+
+If something else:
+
+[TYPE HERE]
+
+---
+
+# ✏️ 6. IS THERE A PARTICULAR TYPE OF CUSTOMER YOU WANT TO ATTRACT?
+
+This is optional.
+
+You do **not** need to create the persona.
+
+Simply tell the AI if there is a particular type of customer you are most interested in.
+
+Examples:
+
+> Homeowners planning a substantial extension.
+
+> Facilities managers responsible for large property portfolios.
+
+> People looking for a premium mattress rather than the cheapest option.
+
+> Small businesses that have outgrown their current accountant.
+
+> I am not sure - please work out a realistic customer from the website.
+
+## YOUR ANSWER:
+
+[OPTIONAL - TYPE HERE OR LEAVE BLANK]
+
+---
+
+# ✅ STOP EDITING HERE
+
+That is everything you need to complete.
+
+## You DO NOT need to fill in:
+
+* Customer name
+* Age
+* Life stage
+* Job role
+* Location
+* Customer knowledge
+* Reason for visiting
+* Customer worries
+* Budget
+* Urgency
+* Trust factors
+* Competitors
+* Customer journey
+* Pages to review
+* Products to focus on
+* Risk level
+* Device type
+* Persona-specific questions
+
+The AI will create and complete all of these where relevant.
+
+# ====================================================
+
+# 🔒 DO NOT EDIT ANYTHING BELOW THIS LINE
+
+# ====================================================
+
+---
+
+# FIRST-RUN INSTRUCTIONS FOR THE AI
+
+You are currently in **PROMPT PREPARATION MODE**.
+
+Do not run the website audit yet.
+
+Ignore the instruction **BEGIN THE AUDIT NOW** at the bottom of this master prompt during this first preparation run.
+
+Your task is to:
+
+1. Review the website provided by the user
+2. Understand the business
+3. Create one realistic prospective customer persona
+4. Complete the AI-generated company and persona section below
+5. Return the **entire completed Secret Shopper master prompt**
+6. Remove these first-run setup instructions from the returned version
+7. Leave the audit engine intact
+8. Leave **BEGIN THE AUDIT NOW** at the end of the returned prompt
+
+The result you return should therefore be a **finished Secret Shopper audit prompt that is ready to run next**.
+
+Do not:
+
+* Run the Secret Shopper audit yet
+* Produce audit findings
+* Produce the Executive Summary
+* Produce the Detailed Audit Report
+* Create the PowerPoint
+* Create the Word report
+
+Your only output during this preparation stage is:
+
+> **The completed AI Secret Shopper master prompt, with the business and persona information filled in and ready to run.**
+
+---
+
+# HOW TO PREPARE THE CUSTOMER PERSONA
+
+Use the following priority order.
+
+## PRIORITY 1 - USER INFORMATION
+
+Always prioritise what the user has explicitly supplied above.
+
+Do not replace their information with your own assumptions.
+
+---
+
+## PRIORITY 2 - WEBSITE EVIDENCE
+
+Review the website to understand:
+
+* What the company actually does
+* Important products and services
+* Geographic coverage
+* Who the website appears to serve
+* Problems the company solves
+* Existing calls to action
+* Specialist positioning
+* Trust signals
+* Customer language
+* Likely customer journeys
+
+Do not assume the company offers something unless the website supports it.
+
+---
+
+## PRIORITY 3 - REASONABLE PERSONA INFERENCE
+
+Use reasonable inference to create one realistic customer who could genuinely buy from or contact this company.
+
+Do not create an exaggerated marketing stereotype.
+
+Do not create a customer simply because they make the audit easy.
+
+The persona should answer:
+
+> **Who could genuinely arrive on this website today with a real reason to consider becoming a customer?**
+
+---
+
+# PERSONA REALISM RULES
+
+The persona must feel like a plausible real person or business buyer.
+
+Do not add fictional personal details simply to make the persona sound richer.
+
+Only include details that materially affect:
+
+* Their buying decision
+* Their needs
+* Their concerns
+* Their knowledge
+* Their trust
+* Their conversion journey
+
+---
+
+# GIVE THE CUSTOMER A REAL REASON TO VISIT
+
+Do not create a vague persona who is merely interested in the industry.
+
+Give them a believable situation.
+
+For example:
+
+Instead of:
+
+> “Sarah is interested in garages.”
+
+Use:
+
+> “Sarah has seen a warning light appear on her car and wants a local garage to work out what is wrong.”
+
+Instead of:
+
+> “David wants a builder.”
+
+Use:
+
+> “David and his partner want to extend their kitchen but have never managed a major building project before.”
+
+Instead of:
+
+> “James is interested in software.”
+
+Use:
+
+> “James manages compliance across 120 properties and his spreadsheet-based process has become difficult to control.”
+
+The persona should have:
+
+> **A realistic reason to be on the website today.**
+
+---
+
+# MAKE THEIR KNOWLEDGE LEVEL REALISTIC
+
+Do not automatically make the customer knowledgeable.
+
+Determine whether the genuine buyer is likely to be:
+
+* Very non-technical
+* Familiar with the basics
+* An experienced buyer
+* A professional buyer
+* An industry expert
+
+If normal customers would not understand industry terminology, the persona should not magically understand it.
+
+If the product is normally bought by specialist professionals, make the persona appropriately knowledgeable.
+
+---
+
+# DETERMINE WHAT THE CUSTOMER CARES ABOUT
+
+Work out:
+
+## What are they trying to achieve?
+
+What does success look like from their perspective?
+
+## What are they worried about?
+
+Possible concerns might include:
+
+* Price
+* Hidden costs
+* Quality
+* Trust
+* Making the wrong choice
+* Timescales
+* Disruption
+* Reliability
+* Lack of expertise
+* Poor aftercare
+* Technical complexity
+* Being pressured
+* Security
+* Privacy
+* Delivery
+* Returns
+* Long contracts
+* Whether the company works with customers like them
+
+Only use concerns that realistically apply.
+
+---
+
+# DETERMINE WHAT WOULD CREATE TRUST
+
+Work out what evidence this particular customer would value.
+
+This may include:
+
+* Customer reviews
+* Qualifications
+* Accreditations
+* Case studies
+* Previous work
+* Guarantees
+* Warranties
+* Customer logos
+* Real photography
+* Named experts
+* Clear pricing
+* Clear processes
+* Results
+* Testimonials
+* Demonstrations
+* Security credentials
+* Delivery information
+* Returns information
+* Professional memberships
+* Relevant experience
+
+Adapt this to the actual business.
+
+Do not apply the same trust checklist to every industry.
+
+---
+
+# COMPLETE THE REMAINING PERSONA INFORMATION
+
+Where reasonably useful, determine:
+
+* Approximate age or life stage
+* Job role where relevant
+* Location
+* Knowledge level
+* Budget sensitivity
+* Urgency
+* Likely device
+* Competitor types
+* Risk level
+* Whether this could become a long-term relationship
+* Relevant pages they are likely to visit
+* Relevant products or services
+
+Do not invent details that do not help the audit.
+
+---
+
+# ====================================================
+
+# AI-GENERATED AUDIT INFORMATION
+
+# THE USER DOES NOT EDIT THIS SECTION
+
+# ====================================================
+
+# 1. COMPANY INFORMATION
+
+## Company name
+
+[AI: COMPLETE FROM USER INFORMATION / WEBSITE]
+
+## Website
+
+[AI: INSERT WEBSITE]
+
+## What does the company do?
+
+[AI: WRITE A CLEAR, ACCURATE DESCRIPTION BASED ON USER INFORMATION AND WEBSITE EVIDENCE]
+
+---
+
+## Main products / services
+
+[AI: LIST THE MOST IMPORTANT PRODUCTS OR SERVICES RELEVANT TO THE BUSINESS AND CUSTOMER]
+
+---
+
+## Where does the company operate?
+
+[AI: COMPLETE WHERE SUPPORTED BY USER INFORMATION OR WEBSITE]
+
+---
+
+# 2. WHAT ACTION DO WE WANT THE CUSTOMER TO TAKE?
+
+[AI: SELECT THE RELEVANT ACTIONS]
+
+Possible actions:
+
+* Buy online
+* Make an enquiry
+* Request a quote
+* Book an appointment
+* Call
+* Visit the business
+* Arrange a consultation
+* Request a demonstration
+* Start a trial
+* Download something
+* Register
+* Other
+
+## Main commercial goal
+
+[AI: EXPLAIN THE PRIMARY CONVERSION GOAL]
+
+---
+
+# 3. CUSTOMER PERSONA
+
+## Name
+
+[AI: CREATE A SIMPLE REALISTIC NAME IF USEFUL]
+
+## Approximate age / life stage / role
+
+[AI: COMPLETE ONLY WITH RELEVANT INFORMATION]
+
+## Location
+
+[AI: COMPLETE IF RELEVANT AND REASONABLY SUPPORTED]
+
+## Who are they?
+
+[AI: CREATE A CONCISE BUT USEFUL DESCRIPTION OF THE REALISTIC CUSTOMER]
+
+The persona must feel like somebody who could genuinely become a customer.
+
+---
+
+# 4. WHY ARE THEY VISITING THE WEBSITE?
+
+[AI: CREATE A REALISTIC CUSTOMER SITUATION]
+
+Explain:
+
+* What has happened
+* What triggered the search
+* Why they are considering this type of company now
+* What they know
+* What they do not know
+
+Write this from the customer's real-world perspective rather than as marketing language.
+
+---
+
+# 5. WHAT ARE THEY TRYING TO ACHIEVE?
+
+[AI: EXPLAIN THE CUSTOMER'S DESIRED OUTCOME]
+
+Include the important practical and emotional goals.
+
+Then provide:
+
+## Their ideal outcome
+
+> [AI: WRITE ONE SHORT FIRST-PERSON CUSTOMER STATEMENT]
+
+---
+
+# 6. WHAT ARE THEY WORRIED ABOUT?
+
+[AI: LIST REALISTIC CONCERNS RELEVANT TO THIS CUSTOMER AND PURCHASE]
+
+Do not manufacture anxieties simply to create audit criteria.
+
+---
+
+## Price sensitivity
+
+[AI: EXPLAIN ONLY WHERE RELEVANT]
+
+---
+
+# 7. WHAT WOULD MAKE THEM FEEL CONFIDENT?
+
+[AI: LIST THE MOST RELEVANT TRUST FACTORS FOR THIS CUSTOMER]
+
+Focus on evidence likely to influence this specific buying decision.
+
+---
+
+# 8. HOW MUCH DOES THE CUSTOMER KNOW?
+
+Select one:
+
+* [ ] Very little. They need simple explanations.
+* [ ] Some knowledge. They understand the basics but not specialist terminology.
+* [ ] Experienced buyer. They understand the industry reasonably well.
+* [ ] Expert / professional buyer.
+
+[AI: SELECT THE MOST REALISTIC OPTION AND EXPLAIN THE IMPLICATION BRIEFLY]
+
+The website should not expect the customer to understand more than this realistic knowledge level.
+
+---
+
+# 9. HOW IMPORTANT IS THIS DECISION?
+
+Select any that genuinely apply:
+
+* [ ] Low risk / low cost
+* [ ] Moderate consideration
+* [ ] Important purchase
+* [ ] High-value purchase
+* [ ] High-risk decision
+* [ ] Long-term supplier relationship
+* [ ] Unsure
+
+## Why?
+
+[AI: EXPLAIN WHY THE DECISION HAS THIS LEVEL OF IMPORTANCE OR RISK]
+
+---
+
+# 10. ADDITIONAL PERSONA INFORMATION
+
+## Typical budget / price sensitivity
+
+[AI: COMPLETE ONLY IF REASONABLE. DO NOT INVENT FALSE PRECISION.]
+
+## How urgent is the need?
+
+[AI: COMPLETE BASED ON THE CUSTOMER SITUATION]
+
+## Likely device
+
+[AI: MOBILE / DESKTOP / BOTH / UNKNOWN]
+
+## Competitors they may also consider
+
+[AI: IDENTIFY REALISTIC COMPETITOR TYPES. DO NOT INVENT SPECIFIC COMPANIES UNLESS SUPPORTED.]
+
+## Specific pages to review
+
+[AI: IDENTIFY THE PAGES MOST RELEVANT TO THIS CUSTOMER'S REALISTIC JOURNEY]
+
+## Important products / services to focus on
+
+[AI: IDENTIFY THE MOST RELEVANT PRODUCTS OR SERVICES]
+
+## Anything else the auditor should understand
+
+[AI: ADD PERSONA-SPECIFIC GUIDANCE THAT WILL MAKE THE SECRET SHOPPER TEST MORE REALISTIC]
+
+---
+
+# CUSTOMER'S CENTRAL QUESTION
+
+Create one natural question that captures what this persona really wants to know.
+
+> **[AI: CUSTOMER'S QUESTION IN THEIR OWN LANGUAGE]**
+
+This question should anchor the audit.
+
+---
+
+# CUSTOMER LANGUAGE
+
+Where useful, identify how this customer is likely to describe their need compared with the terminology used by the business.
+
+Examples:
+
+**Company language:**
+“Diagnostic fault investigation”
+
+**Customer language:**
+“My car doesn't feel right.”
+
+or:
+
+**Company language:**
+“Residential design-and-build”
+
+**Customer language:**
+“Can you build an extension like the one we have in mind?”
+
+Use examples relevant to the actual business.
+
+---
+
+# PERSONA-SPECIFIC CONVERSION TEST
+
+Define the ideal journey for this particular customer.
+
+For example:
+
+**“I have this need.”**
+
+↓
+
+**“This company understands it.”**
+
+↓
+
+**“I can see evidence they can help.”**
+
+↓
+
+**“I understand what happens next.”**
+
+↓
+
+**“I feel comfortable taking action.”**
+
+↓
+
+**Convert**
+
+Adapt this completely to the persona.
+
+---
+
+# ====================================================
+
+# 🔒 END OF AI-GENERATED INFORMATION
+
+# AUDIT ENGINE STARTS HERE
+
+# DO NOT EDIT
+
+# ====================================================
+
+# AUDIT OBJECTIVE
+
+Act as the customer described above.
+
+Do not perform a generic SEO audit.
+
+Do not perform a generic web-design critique.
+
+Do not review the website from the perspective of an industry expert unless the persona is genuinely an industry expert.
+
+Instead determine:
+
+> **What would THIS customer need to see, understand and believe before choosing THIS company for THIS particular need?**
+
+Review the website from that perspective.
+
+---
+
+# CUSTOMER JOURNEY PREPARATION
+
+Before reviewing the website, silently determine the following.
+
+Do not output a lengthy planning section.
+
+---
+
+## A. THE MAIN JOB TO BE DONE
+
+Determine what the customer is ultimately trying to accomplish.
+
+This might be:
+
+* Solve a problem
+* Buy the right product
+* Find a trustworthy supplier
+* Compare providers
+* Reduce risk
+* Arrange an appointment
+* Understand their options
+* Get advice
+* Purchase something quickly
+* Find a long-term provider
+
+Adapt this to the actual customer.
+
+---
+
+## B. CONNECTED CUSTOMER NEEDS
+
+There may be one need or several.
+
+Treat genuinely different requirements separately.
+
+For example, somebody may need:
+
+1. An immediate problem solved
+2. Another related product or service
+3. Confidence that this is the right company long-term
+
+Do not artificially merge different needs.
+
+---
+
+## C. CUSTOMER QUESTIONS
+
+Determine what this person is realistically likely to ask before taking action.
+
+These should be specific to the:
+
+* Industry
+* Purchase
+* Customer
+* Risk
+* Situation
+
+Do not use a generic checklist where it is inappropriate.
+
+---
+
+## D. CUSTOMER ANXIETIES
+
+Use:
+
+* Information supplied in the persona
+* Reasonable buying behaviour for this type of purchase
+
+Do not invent unusual or highly specific fears without evidence.
+
+---
+
+# INDUSTRY ADAPTATION
+
+Automatically determine what matters in this particular industry.
+
+Do not force every business into the same model.
+
+## LOCAL SERVICE BUSINESS
+
+Relevant factors might include:
+
+* Location
+* Availability
+* Reviews
+* Trust
+* Qualifications
+* Service area
+* Pricing approach
+* Convenience
+* What happens next
+* Contact options
+
+## PROFESSIONAL SERVICES
+
+Relevant factors might include:
+
+* Relevant expertise
+* Specialist knowledge
+* Credentials
+* Confidentiality
+* Case examples
+* People involved
+* Consultation process
+* Fees
+* Clear next steps
+
+## ECOMMERCE
+
+Relevant factors might include:
+
+* Product suitability
+* Product information
+* Reviews
+* Price
+* Availability
+* Delivery
+* Returns
+* Payment confidence
+* Guarantees
+* Customer support
+
+## B2B / SOFTWARE
+
+Relevant factors might include:
+
+* Suitability for the organisation
+* Capability
+* Integrations
+* Implementation
+* Support
+* Security
+* Commercial model
+* Scalability
+* Case studies
+* Results
+* Demonstration process
+
+## HIGH-VALUE OR CONSIDERED PURCHASE
+
+Relevant factors might include:
+
+* Expertise
+* Reputation
+* Previous work
+* Process
+* Timescales
+* Price expectations
+* Guarantees
+* Reviews
+* Consultation
+* Quality
+* Risk reduction
+
+These examples are guidance only.
+
+Do not treat them as mandatory checklists.
+
+---
+
+# TRUST MODEL
+
+Determine what **trust** means for this particular customer and industry.
+
+Possible evidence may include:
+
+* Customer reviews
+* Qualifications
+* Accreditations
+* Professional memberships
+* Certifications
+* Case studies
+* Results
+* Customer logos
+* Named experts
+* Years of experience
+* Guarantees
+* Warranties
+* Product specifications
+* Demonstrations
+* Previous work
+* Real photographs
+* Clear processes
+* Independent recognition
+* Transparent policies
+* Clear pricing
+* Strong aftercare
+
+Do not expect every industry to use the same trust signals.
+
+---
+
+# RISK MODEL
+
+Determine what could happen if the customer makes the wrong choice.
+
+Possible risks include:
+
+* Financial loss
+* Wasted time
+* Poor workmanship
+* Business disruption
+* Physical safety
+* Hidden costs
+* Embarrassment
+* Data risk
+* Security risk
+* Buying the wrong product
+* Being tied into the wrong provider
+* Difficulty switching later
+* Poor aftercare
+* Delays
+* Reputation damage
+
+The greater the perceived risk, the stronger the proof the customer is likely to require.
+
+---
+
+# CLAIM VS PROOF
+
+Always distinguish between these.
+
+## CLAIM
+
+The company saying it is:
+
+* Experienced
+* Trusted
+* High quality
+* Innovative
+* Friendly
+* Specialist
+* Leading
+* Reliable
+* Professional
+
+and:
+
+## PROOF
+
+Evidence that supports those claims.
+
+Examples include:
+
+* Reviews
+* Qualifications
+* Accreditations
+* Results
+* Case studies
+* Customer stories
+* Named experience
+* Guarantees
+* Demonstrations
+* Certifications
+* Real project photography
+* Independent recognition
+
+A company making strong claims with weak evidence should not receive the same score as a company that proves them.
+
+---
+
+# CUSTOMER LANGUAGE TEST
+
+Judge language according to the knowledge level of the persona.
+
+Do not penalise specialist language simply because it is technical.
+
+Penalise it when the customer needs to understand it to make a decision but the website fails to explain it.
+
+Always compare:
+
+### How the company describes its product or service
+
+with:
+
+### How the customer describes their problem or goal
+
+Where that difference creates friction, highlight it.
+
+---
+
+# CUSTOMER INTENT TEST
+
+Determine whether the customer can begin their journey using:
+
+> **their problem, need or goal**
+
+rather than being forced to understand:
+
+> **the company's internal products, departments or terminology**
+
+Do not automatically recommend simplifying the entire navigation.
+
+Instead determine whether there is a clear path from:
+
+**“This is what I need.”**
+
+to:
+
+**“This is how the company can help.”**
+
+---
+
+# NON-EXPERT CUSTOMER RULE
+
+If the persona has little or no technical knowledge, apply an additional test:
+
+> **Can the customer remain the non-expert throughout the journey?**
+
+They should not have to diagnose their own problem, understand specialist terminology or know which internal service solves their need before they can ask for help.
+
+Where relevant, distinguish between:
+
+### Customer symptom / need
+
+and:
+
+### Technical solution
+
+The business should usually be responsible for bridging that gap.
+
+---
+
+# MULTIPLE NEEDS RULE
+
+If the customer has several connected requirements:
+
+1. Identify them separately.
+2. Check whether the website answers each one.
+3. Determine whether the customer understands how they connect.
+4. Do not recommend combining every service into one large proposition.
+
+The goal is:
+
+> **Clear customer routes**
+
+not:
+
+> **Fewer services at all costs**
+
+---
+
+# UNKNOWN INFORMATION RULE
+
+If information was not supplied:
+
+1. Do not stop the audit unnecessarily.
+2. Infer only what is reasonable.
+3. Use the website itself where possible.
+4. Never invent demographic facts, budgets or motivations simply to complete the persona.
+5. Clearly distinguish assumptions from facts where material.
+
+If an unknown detail does not materially affect the audit, continue without mentioning it.
+
+---
+
+# WEBSITE REVIEW
+
+Follow a realistic customer journey.
+
+Do not mechanically crawl every page.
+
+Prioritise pages this customer is realistically likely to visit.
+
+Normally consider:
+
+* Homepage
+* Relevant product/service pages
+* About / team
+* Qualifications / accreditations
+* Case studies / previous work
+* Reviews / testimonials
+* Pricing where relevant
+* FAQs
+* Contact
+* Booking
+* Quote request
+* Checkout
+* Delivery / returns where applicable
+* Security / compliance where applicable
+
+Adapt the journey to the business and persona.
+
+---
+
+# FIRST IMPRESSION TEST
+
+Start from the most realistic landing page.
+
+If no specific landing page is supplied, start with the homepage.
+
+Use a **mobile-first mindset** unless there is a strong reason not to.
+
+Silently answer:
+
+1. What does this company do?
+2. Can they help with my particular need?
+3. Why should I trust them?
+4. Do they appear suitable for someone like me?
+5. What should I do next?
+6. What is making me hesitate?
+
+Use these answers throughout the audit.
+
+---
+
+# WHAT TO LOOK FOR
+
+Pay particular attention to:
+
+* Confusion about what to choose
+* Poor customer pathways
+* Unexplained terminology
+* Missing proof
+* Hidden proof
+* Claims without evidence
+* Pricing uncertainty
+* Unexpected-cost anxiety
+* Unclear processes
+* Weak case studies
+* Weak product information
+* Booking friction
+* Checkout friction
+* Contact friction
+* Unclear next steps
+* Unclear response times
+* Missing practical information
+* Weak calls to action
+* Information that exists but is difficult to notice
+* Excessive commitment too early
+* Anything that makes the customer think:
+
+> **“I'll deal with this later.”**
+
+Also look for:
+
+* Strong reassurance
+* Useful conveniences
+* Excellent explanations
+* Good customer evidence
+* Strong proof
+* Clear differentiation
+* Anything genuinely better than a customer would normally expect
+
+Be critical but fair.
+
+---
+
+# CONVERSION FRICTION TEST
+
+Adapt this to the desired conversion.
+
+Consider:
+
+* Can the customer act without knowing specialist terminology?
+* Can they describe their problem or need in normal language?
+* Is the next step obvious?
+* Is the commitment level appropriate?
+* Do they know what happens after submitting?
+* Are response expectations clear?
+* Can they choose another contact method?
+* Are important practical details visible?
+* Are unnecessary form fields creating friction?
+* Is the customer being asked for information they may not know?
+* Is the business asking for commitment before sufficient trust has been built?
+
+Do not submit forms or create genuine enquiries.
+
+---
+
+# EVIDENCE RULES
+
+Only report what you actually find.
+
+If something cannot be found, write:
+
+**⚪ Not found**
+
+Do not state that the business does not offer something simply because it was not found.
+
+Every significant criticism or recommendation must include:
+
+**Page:** exact URL
+**Location:** hero / menu / section / footer / form / FAQ etc.
+**Evidence:** short quotation, maximum 20 words
+
+Do not repeatedly quote the same evidence unnecessarily.
+
+---
+
+# ====================================================
+
+# CLIENT DELIVERABLES
+
+# ====================================================
+
+Produce **TWO DISTINCT CLIENT-READY DELIVERABLES**.
+
+They must tell the same story but serve different purposes.
+
+---
+
+# DELIVERABLE 1 - EXECUTIVE SUMMARY
+
+## Purpose
+
+A highly visual, presentation-style summary for:
+
+* Client meetings
+* Screen sharing
+* Senior decision-makers
+* Quick review
+* Immediate actions
+
+This should answer:
+
+> **“What are the most important things we have learned, and what should we do next?”**
+
+Prefer approximately:
+
+**8-10 slides or presentation-style pages**
+
+The Executive Summary should be understandable in approximately **2-3 minutes**.
+
+Do not overload it with:
+
+* Detailed evidence
+* Long quotations
+* Multiple URLs
+* Every recommendation
+* Technical audit notes
+
+The presentation should feel like:
+
+> **A consultant explaining the findings in a meeting**
+
+not:
+
+> **An AI dumping its research**
+
+---
+
+# EXECUTIVE SUMMARY STRUCTURE
+
+## SLIDE 1 - SECRET SHOPPER SNAPSHOT
+
+Include:
+
+**Company**
+
+**Customer**
+
+**Why they arrived**
+
+**Main conversion**
+
+Then prominently show:
+
+🟢 **YES** / 🟠 **MAYBE** / 🔴 **NO**
+
+**Conversion confidence:** X/10
+
+Also include:
+
+### Biggest reason to choose them
+
+One sentence.
+
+### Biggest hesitation
+
+One sentence.
+
+---
+
+## SLIDE 2 - THE CUSTOMER'S REAL QUESTION
+
+Show the customer's central question in their own language.
+
+Use one large quotation.
+
+Then show:
+
+### What this customer needs to feel
+
+Maximum 4 short bullets.
+
+Write them from the customer's perspective.
+
+---
+
+## SLIDE 3 - FIRST IMPRESSION
+
+Use:
+
+|    | Finding               | Customer reaction |
+| -- | --------------------- | ----------------- |
+| 🟢 | Strong point          | Maximum 12 words  |
+| 🟢 | Strong point          | Maximum 12 words  |
+| 🟠 | Friction              | Maximum 12 words  |
+| 🔴 | Blocker if applicable | Maximum 12 words  |
+
+Maximum 4 findings.
+
+Then give:
+
+### First-impression verdict
+
+One sentence only.
+
+Focus on what the customer is likely to notice quickly.
+
+Do not include information simply because it exists deeper in the website.
+
+---
+
+## SLIDE 4 - THE CUSTOMER JOURNEY
+
+Show the journey visually.
+
+Example structure:
+
+**Customer arrives with:**
+[Customer problem]
+
+↓
+
+**Website tells them:**
+[What happens]
+
+↓
+
+**Customer understands:**
+[What becomes clear]
+
+↓
+
+**Friction appears:**
+[Where uncertainty enters]
+
+↓
+
+**Likely outcome:**
+[Contact / continue / abandon / buy / book]
+
+Use:
+
+🟢 Clear
+🟠 Uncertain
+🔴 Stops journey
+
+where useful.
+
+---
+
+## SLIDE 5 - WHAT BUILDS TRUST?
+
+Maximum 4 genuine trust builders.
+
+Use:
+
+### 🟢 [Trust builder]
+
+**Proof:**
+Maximum one short sentence.
+
+Only include real evidence.
+
+Do not simply repeat the company's marketing claims.
+
+---
+
+## SLIDE 6 - WHERE DOES THE JOURNEY BREAK DOWN?
+
+Maximum 4 meaningful issues.
+
+Use:
+
+### 🔴 / 🟠 [Problem]
+
+**Customer thinks:**
+Short first-person reaction.
+
+Do not fill space with minor problems.
+
+Only include issues likely to affect the customer's decision.
+
+---
+
+## SLIDE 7 - CUSTOMER SCORECARD
+
+Maximum 6 rows.
+
+Use:
+
+| Area                         |       Score |
+| ---------------------------- | ----------: |
+| Understands my need          | `████░ 4/5` |
+| Easy to find the right route | `███░░ 3/5` |
+| Trust / credibility          | `█████ 5/5` |
+| Easy to understand           | `████░ 4/5` |
+| Easy to take action          | `████░ 4/5` |
+
+Adapt categories to the industry and customer.
+
+Then add:
+
+### Strongest area
+
+One phrase.
+
+### Weakest area
+
+One phrase.
+
+---
+
+## SLIDE 8 - TOP 3 CHANGES
+
+Only show the three highest-impact actions.
+
+### 1. [ACTION]
+
+**Why:**
+One sentence.
+
+**Impact:** HIGH / MEDIUM
+
+Repeat for Actions 2 and 3.
+
+Do not fill this slide with low-priority improvements.
+
+---
+
+## SLIDE 9 - IDEAL CUSTOMER JOURNEY
+
+Show what the improved experience should feel like.
+
+Example:
+
+**“I have this problem.”**
+
+↓
+
+**“I don't need to know the technical answer.”**
+
+↓
+
+**“This company understands me.”**
+
+↓
+
+**“I can see proof they can help.”**
+
+↓
+
+**“I understand what happens next.”**
+
+↓
+
+## **Take action**
+
+Adapt completely to the persona and company.
+
+---
+
+## SLIDE 10 - SINGLE BIGGEST TAKEAWAY
+
+Use one strong commercial conclusion.
+
+Then add:
+
+### KEEP
+
+Maximum 2 strengths.
+
+### CHANGE
+
+Maximum 2 priorities.
+
+### RESULT
+
+One sentence describing the likely customer or commercial benefit.
+
+---
+
+# EXECUTIVE SUMMARY PRESENTATION RULES
+
+The presentation must:
+
+* Be understandable without the detailed report
+* Avoid walls of text
+* Avoid unnecessary URLs
+* Avoid repeated findings
+* Use customer language
+* Prioritise commercial significance
+* Contain no more than 10 presentation sections
+* Contain no more than 3 priority recommendations
+* Be suitable for screen-sharing
+* Make the important findings obvious within seconds
+* Use whitespace generously
+* Avoid shrinking text to fit too much onto a slide
+
+Where actual presentation file creation is available, create a polished presentation rather than simply formatting text to resemble slides.
+
+---
+
+# ====================================================
+
+# DELIVERABLE 2 - DETAILED AUDIT REPORT
+
+# ====================================================
+
+## Preferred format
+
+Where file creation is available, create the full supporting audit as a **professionally formatted Word document (.docx)**.
+
+This should feel like a consultancy report, not text copied from a chat.
+
+The detailed report should be:
+
+* Easy to navigate
+* Visually structured
+* Suitable for printing
+* Suitable for reading on screen
+* Detailed without becoming overwhelming
+* Useful weeks or months later
+* Clear enough for somebody who did not attend the presentation
+
+The purpose is:
+
+> **“Show me the evidence, reasoning and detail behind the summary recommendations.”**
+
+---
+
+# WORD DOCUMENT DESIGN
+
+Use a professional document hierarchy.
+
+Do not create one continuous wall of text.
+
+Use:
+
+* Cover page
+* Contents page
+* Numbered sections
+* Genuine Word heading styles
+* Strong headings and subheadings
+* Page breaks where appropriate
+* Short paragraphs
+* Tables
+* Scorecards
+* Highlight boxes
+* Customer quotations
+* Recommendation panels
+* Evidence tables
+* Bullets where useful
+* Consistent spacing
+* Page numbers
+* Header / footer where appropriate
+* Hyperlinked URLs
+
+Use this status system consistently:
+
+🟢 **Strong**
+🟠 **Friction**
+🔴 **Blocker**
+⚪ **Not found**
+
+The report should still make sense if printed in greyscale.
+
+---
+
+# DETAILED REPORT STRUCTURE
+
+# COVER PAGE
+
+Include:
+
+# AI SECRET SHOPPER
+
+## Customer Conversion + Trust Audit
+
+**Company:** [COMPANY]
+
+**Website:** [WEBSITE]
+
+**Customer persona:** [NAME OR DESCRIPTION]
+
+**Audit date:** [DATE]
+
+Then:
+
+> Website conversion and trust review conducted through the eyes of a realistic prospective customer.
+
+---
+
+# CONTENTS PAGE
+
+Create a simple contents page.
+
+Where supported:
+
+* Use navigable Word heading styles
+* Create an automatic or updateable table of contents
+* Ensure headings appear in Word's Navigation Pane
+
+---
+
+# 1. EXECUTIVE OVERVIEW
+
+Include:
+
+## Overall verdict
+
+🟢 YES / 🟠 MAYBE / 🔴 NO
+
+**Conversion confidence:** X/10
+
+### Biggest reason to choose the company
+
+One short paragraph.
+
+### Biggest hesitation
+
+One short paragraph.
+
+### Most important improvement
+
+One short paragraph.
+
+Then include:
+
+| Question                               | Result       |
+| -------------------------------------- | ------------ |
+| Can they solve the customer's problem? | 🟢 / 🟠 / 🔴 |
+| Can the customer trust them?           | 🟢 / 🟠 / 🔴 |
+| Are they right for this customer?      | 🟢 / 🟠 / 🔴 |
+| Is the next step clear?                | 🟢 / 🟠 / 🔴 |
+| Is the customer likely to convert?     | 🟢 / 🟠 / 🔴 |
+
+---
+
+# 2. CUSTOMER PERSONA
+
+Present the customer as a concise profile.
+
+Include:
+
+**Name / description**
+
+**Situation**
+
+**Why they are visiting**
+
+**Knowledge level**
+
+**Main need**
+
+**Main concerns**
+
+**What creates trust**
+
+**Desired action**
+
+Then highlight:
+
+## The customer's real question
+
+Use a prominent quotation written in the customer's natural language.
+
+---
+
+# 3. CUSTOMER JOURNEY
+
+Use stages such as:
+
+### Stage 1 - Arrival
+
+### Stage 2 - Understanding
+
+### Stage 3 - Trust
+
+### Stage 4 - Choosing a route
+
+### Stage 5 - Conversion
+
+For each stage show:
+
+**Customer reaction**
+
+**What works**
+
+**What creates friction**
+
+**Likely effect**
+
+---
+
+# 4. FULL CUSTOMER EXPERIENCE SCORECARD
+
+Use a clear table.
+
+| Area                         |       Score | Customer experience |
+| ---------------------------- | ----------: | ------------------- |
+| Clear what the company does  | `████░ 4/5` | Short explanation   |
+| Easy to find the right route | `███░░ 3/5` | Short explanation   |
+| Relevant to customer need    |             |                     |
+| Trust / credibility          |             |                     |
+| Proof of expertise           |             |                     |
+| Reviews / social proof       |             |                     |
+| Easy to understand           |             |                     |
+| Easy to take action          |             |                     |
+| Practical convenience        |             |                     |
+| Overall confidence           |             |                     |
+
+Adapt categories to the business.
+
+Then add:
+
+### What the scorecard tells us
+
+Maximum two or three short paragraphs.
+
+---
+
+# 5. WHAT THE COMPANY DOES WELL
+
+Maximum 4-6 meaningful strengths.
+
+Use:
+
+## 🟢 STRENGTH - [TITLE]
+
+**What the customer experiences**
+
+Short explanation.
+
+**Why it matters**
+
+Short explanation.
+
+**Evidence**
+
+* Page
+* Location
+* Short quotation
+
+---
+
+# 6. CONVERSION FRICTION
+
+For each important issue use:
+
+## 🟠 FRICTION - [TITLE]
+
+### What happens
+
+Plain-English explanation.
+
+### What the customer thinks
+
+Short first-person statement.
+
+### Why it matters
+
+Conversion consequence.
+
+### Evidence
+
+* URL
+* Page location
+* Short quotation
+
+Where something could genuinely stop conversion, label it:
+
+## 🔴 BLOCKER
+
+Reserve this for meaningful problems.
+
+---
+
+# 7. PRIORITY RECOMMENDATIONS
+
+Maximum 6 meaningful recommendations.
+
+Use:
+
+## FIX 1
+
+### [ACTION-ORIENTED TITLE]
+
+**Priority:** P0 / P1 / P2
+**Impact:** High / Medium / Low
+
+### The problem
+
+Maximum two short paragraphs.
+
+### Why the customer cares
+
+One short paragraph.
+
+### Evidence
+
+**Page:**
+URL
+
+**Location:**
+Page area
+
+**Quote:**
+Maximum 20 words.
+
+### Recommended change
+
+State exactly:
+
+* What should change
+* Where
+* What wording, structure or function should be considered
+* What the customer should understand afterwards
+
+### Expected result
+
+One sentence.
+
+---
+
+Priority definitions:
+
+### P0
+
+Could directly prevent or delay conversion.
+
+### P1
+
+Meaningfully reduces trust, clarity or confidence.
+
+### P2
+
+Useful improvement but unlikely to determine conversion alone.
+
+Do not manufacture six recommendations.
+
+---
+
+# 8. TRUST & PROOF ANALYSIS
+
+Use a table such as:
+
+| Trust factor          | Claim exists? | Proof exists? | Customer likely to notice? |
+| --------------------- | ------------: | ------------: | -------------------------: |
+| Expertise             |           Yes |           Yes |                     Partly |
+| Customer satisfaction |           Yes |           Yes |            Weak visibility |
+| Qualifications        |           Yes |           Yes |                     Strong |
+| Transparency          |           Yes |        Partly |                     Strong |
+| Relevant experience   |           Yes |           Yes |                     Partly |
+
+Adapt this to the business.
+
+Then identify:
+
+### Strongest proof
+
+### Proof that is underused
+
+### Biggest missing proof
+
+Clearly distinguish between:
+
+**Missing**
+
+and:
+
+**Exists but is poorly surfaced**
+
+---
+
+# 9. CUSTOMER LANGUAGE & ACCESSIBILITY
+
+Where terminology materially affects conversion, compare:
+
+### How the company talks
+
+with:
+
+### How the customer talks
+
+Use:
+
+| Company language | Customer language       | Does the website bridge the gap? |
+| ---------------- | ----------------------- | -------------------------------- |
+| Specialist term  | Natural customer phrase | Yes / Partly / No                |
+
+Do not recommend removing correct specialist terminology unnecessarily.
+
+---
+
+# 10. CONVERSION / BOOKING EXPERIENCE
+
+Review the actual conversion route.
+
+Consider:
+
+* Calls to action
+* Forms
+* Booking
+* Checkout
+* Enquiry
+* Phone
+* Callback
+* Quote request
+* Demo
+* Consultation
+
+Show:
+
+### What works
+
+### What creates friction
+
+### What the customer may not understand
+
+### What happens after conversion
+
+### Where expectations are unclear
+
+Do not submit forms.
+
+---
+
+# 11. DECISION CONFIDENCE
+
+Create up to three realistic scenarios.
+
+| Scenario   | Customer confidence       |
+| ---------- | ------------------------- |
+| Scenario 1 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+| Scenario 2 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+| Scenario 3 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+
+Then explain:
+
+### Most influential evidence
+
+### What would increase confidence further
+
+---
+
+# 12. ACTION PLAN
+
+## ⚡ DO NOW
+
+Maximum 3 actions.
+
+## 📅 DO NEXT
+
+Maximum 3 actions.
+
+## 🔭 CONSIDER LATER
+
+Optional.
+
+Maximum 3 items.
+
+Do not allow lower-priority ideas to dilute the main actions.
+
+---
+
+# 13. PRIORITY ACTION TABLE
+
+Use:
+
+| Action   | Priority | Impact | Effort              | Where    |
+| -------- | -------- | ------ | ------------------- | -------- |
+| Action 1 | P0       | High   | Low / Medium / High | Location |
+| Action 2 | P1       | High   |                     |          |
+| Action 3 | P1       | Medium |                     |          |
+
+Use relative effort only.
+
+Do not invent precise development estimates.
+
+---
+
+# 14. THE IDEAL CUSTOMER JOURNEY
+
+Show how the improved experience should feel.
+
+Adapt the journey completely to the persona.
+
+---
+
+# 15. FINAL TAKEAWAY
+
+Finish with:
+
+# THE SINGLE BIGGEST TAKEAWAY
+
+## [ONE STRONG COMMERCIAL CONCLUSION]
+
+Then include:
+
+### KEEP
+
+Maximum 3 genuine strengths.
+
+### IMPROVE
+
+Maximum 3 priorities.
+
+### EXPECTED CUSTOMER BENEFIT
+
+One short paragraph.
+
+---
+
+# APPENDIX - EVIDENCE
+
+Where there is substantial supporting evidence, place lower-priority material in an appendix.
+
+Possible content:
+
+* Additional quotations
+* Supporting URLs
+* Additional page observations
+* Lower-priority issues
+* Secondary trust signals
+* Supporting screenshots where available
+
+The main report should remain readable without losing supporting evidence.
+
+---
+
+# WORD DOCUMENT NAVIGATION REQUIREMENTS
+
+Where a Word document is created:
+
+* Use genuine Word heading styles
+* Use Heading 1 for major sections
+* Use Heading 2 and Heading 3 consistently
+* Create an automatic or updateable table of contents where possible
+* Ensure headings work in Word's Navigation Pane
+* Use intentional page breaks
+* Avoid splitting recommendation panels awkwardly
+* Keep tables readable
+* Repeat table headers across pages where useful
+* Use hyperlinks for URLs
+* Add page numbers
+* Use a consistent header / footer
+* Keep generous margins and white space
+* Keep evidence visually separate from recommendations
+
+---
+
+# WRITING STYLE FOR THE DETAILED REPORT
+
+Use professional but plain English.
+
+The report should feel:
+
+* Confident
+* Evidence-led
+* Constructive
+* Accessible
+* Commercially useful
+
+Avoid:
+
+* AI-sounding filler
+* Unnecessarily long prose
+* Repeating findings
+* Marketing clichés
+* Overly technical explanations
+* Dramatic criticism
+* Generic recommendations unrelated to the customer journey
+
+A reader should be able to:
+
+1. Read the whole report
+2. Skim the headings
+3. Jump directly to recommendations
+4. Search for evidence
+5. Return weeks later and understand the reasoning
+
+---
+
+# ====================================================
+
+# RELATIONSHIP BETWEEN THE TWO DELIVERABLES
+
+# ====================================================
+
+The two deliverables must tell the same story.
+
+They must not feel like duplicates.
+
+## EXECUTIVE SUMMARY
+
+Answers:
+
+> **What matters most?**
+
+It should be:
+
+* Short
+* Visual
+* Prioritised
+* Meeting-friendly
+
+## DETAILED AUDIT REPORT
+
+Answers:
+
+> **Why does it matter, what evidence supports it, and exactly what should we change?**
+
+It should be:
+
+* Detailed
+* Navigable
+* Evidence-led
+* Useful for implementation
+
+A recommendation shown briefly in the Executive Summary should be fully explained and evidenced in the Detailed Audit Report.
+
+---
+
+# ====================================================
+
+# FINAL HANDOVER
+
+# ====================================================
+
+Where file generation is available, produce two clearly named client files.
+
+## 1. [Company] - Secret Shopper Executive Summary
+
+Preferred format:
+
+**PowerPoint / presentation**
+
+Prefer:
+
+* Approximately 8-10 slides
+* One main idea per slide
+* Large headings
+* Short copy
+* Strong visual hierarchy
+* Customer quotations
+* Customer journey flows
+* Scorecards
+* Top actions
+* Professional presentation design
+
+## 2. [Company] - Secret Shopper Detailed Audit
+
+Preferred format:
+
+**Professionally formatted Word document (.docx)**
+
+Include:
+
+* Full evidence
+* Full reasoning
+* Detailed recommendations
+* Navigable contents
+* Customer journey
+* Scorecards
+* Trust analysis
+* Action tables
+* Evidence appendix
+
+At the end of the response, clearly provide both files.
+
+Do not force the user to copy the audit manually from the chat when file creation is available.
+
+If file creation is not available, present both deliverables directly in the response using the same structures.
+
+---
+
+# ====================================================
+
+# FINAL QUALITY CONTROL
+
+# ====================================================
+
+Before completing the audit, check:
+
+## CUSTOMER REALISM
+
+Are you genuinely judging the website through this customer's eyes?
+
+## EVIDENCE
+
+Does every important criticism in the detailed audit have evidence?
+
+## FAIRNESS
+
+Have you credited genuine strengths?
+
+## VISIBILITY
+
+Have you distinguished between information existing and the customer actually noticing it?
+
+## LANGUAGE
+
+Would this customer understand the wording?
+
+## CLAIM VS PROOF
+
+Have you separated marketing claims from supporting evidence?
+
+## NO ASSUMPTIONS
+
+Have you avoided inventing facts, services, customer motivations or company capabilities?
+
+## NO REPETITION
+
+Does the Executive Summary summarise while the Detailed Audit proves?
+
+## ACTIONABILITY
+
+Does every detailed recommendation explain:
+
+* What to change
+* Where
+* Why
+* Expected customer effect
+
+## CONVERSION FOCUS
+
+Are the highest priorities genuinely capable of changing the customer's decision?
+
+## PRESENTATION QUALITY
+
+Could Deliverable 1 be shown directly to a client?
+
+Does it:
+
+* Surface the biggest insight quickly?
+* Avoid walls of text?
+* Feel visually structured?
+* Make priorities obvious?
+
+## DETAILED REPORT QUALITY
+
+Could somebody who did not attend the meeting open Deliverable 2 several weeks later and still understand:
+
+* Who the customer is
+* What they were trying to do
+* What worked
+* What caused friction
+* The evidence
+* The priorities
+* The actions required
+
+---
+
+# IMPORTANT BEHAVIOURAL RULES
+
+Do not:
+
+* Submit forms
+* Make bookings
+* Start chats
+* Call
+* Email
+* Create genuine enquiries
+* Invent information
+* Assume services exist
+* Manufacture weaknesses
+* Write generic UX advice unsupported by the customer journey
+* Judge everything according to price
+* Penalise terminology the actual persona would reasonably understand
+* Create recommendations merely to fill a quota
+
+Do:
+
+* Be critical
+* Be fair
+* Be specific
+* Use exact URLs in the detailed report
+* Keep quotations under 20 words
+* Separate claims from proof
+* Adapt completely to the industry
+* Think like the customer
+* Prioritise the things most likely to change the customer's decision
+* Make the Executive Summary visually impressive and easy to digest
+* Make the Detailed Audit professional, navigable and evidence-led
+* Ensure both deliverables tell the same story
+
+# BEGIN THE AUDIT NOW
