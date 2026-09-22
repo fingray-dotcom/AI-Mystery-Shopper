@@ -1,0 +1,2347 @@
+# AI SECRET SHOPPER
+
+## Customer Conversion + Trust Audit
+
+Use this prompt to audit any website through the eyes of a realistic prospective customer.
+
+It is designed to work across different industries, including:
+
+* Local service businesses
+* Trades
+* Professional services
+* Ecommerce
+* B2B
+* Software
+* Healthcare
+* Legal
+* Automotive
+* Property
+* High-value purchases
+* Hospitality
+* Retail
+* And most other customer-facing businesses
+
+The audit should answer one central question:
+
+> **Would this particular customer feel confident enough to contact, book, buy from or choose this company?**
+
+---
+
+# 👋 START HERE
+
+There are two parts:
+
+## ✏️ PART 1 — COMPANY + CUSTOMER INFORMATION
+
+This section would normally be completed by the person running the audit.
+
+For this test, it has already been completed using **Okee** and a fictional customer persona called **Sarah**.
+
+## 🔒 PART 2 — AUDIT ENGINE
+
+Everything after the editable section contains the audit methodology.
+
+Do not treat the supplied persona as a checklist.
+
+Use it to understand:
+
+* What Sarah is trying to achieve
+* What she is worried about
+* What evidence matters to her
+* What could stop her contacting Okee
+* What could persuade her to choose Okee
+
+---
+
+# ====================================================
+
+# ✏️ PART 1 — EDITABLE INFORMATION
+
+# ====================================================
+
+# 1. COMPANY INFORMATION
+
+## Company name
+
+Okee
+
+## Website
+
+https://www.okeedrive.co.uk/
+
+## What does the company do?
+
+Okee is an independent automotive garage in Wellington, Somerset.
+
+It provides everyday vehicle care including MOTs, servicing, tyres, brakes, air conditioning, repairs and routine maintenance, alongside more specialist modern vehicle services such as diagnostics, auto electrics, EV and hybrid repairs, ADAS calibration and precision wheel alignment.
+
+Okee positions itself as a technically capable alternative to a traditional main dealer, with a strong emphasis on clear explanations, customer service and properly diagnosing vehicle problems.
+
+---
+
+## Main products / services
+
+* MOTs
+* Vehicle servicing
+* Repairs
+* Diagnostics
+* Auto electrics
+* EV and hybrid servicing and repairs
+* ADAS calibration
+* Wheel alignment
+* Tyres
+* Brakes
+* Batteries
+* Air conditioning
+* Exhausts
+* Timing belts
+* Clutch and DSG work
+* General vehicle maintenance
+
+---
+
+## Where does the company operate?
+
+Okee is based in Wellington, Somerset.
+
+It is primarily a local and regional garage serving motorists from Wellington and surrounding areas of Somerset.
+
+---
+
+# 2. WHAT ACTION DO WE WANT THE CUSTOMER TO TAKE?
+
+Primary actions:
+
+* [x] Make an enquiry
+* [x] Book an appointment
+* [x] Call
+* [ ] Buy online
+* [ ] Request a quote
+* [ ] Visit the business without arranging first
+* [ ] Arrange a consultation
+* [ ] Request a demonstration
+* [ ] Start a trial
+* [ ] Download something
+* [ ] Register
+
+## Main commercial goal
+
+Encourage the customer to feel confident enough in Okee's expertise and customer service to **contact the garage or request a booking**.
+
+Crucially, the customer should **not need to know what is wrong with their car or which technical service they require before getting in touch**.
+
+---
+
+# 3. CUSTOMER PERSONA
+
+## Name
+
+Sarah
+
+## Approximate age / life stage
+
+42.
+
+Lives with her partner and two school-age children.
+
+Works four days a week in an office-based role and relies heavily on her car for commuting, school runs, shopping and family life.
+
+## Location
+
+Lives approximately 10–15 minutes from Wellington.
+
+## Who is she?
+
+Sarah is a typical everyday car owner.
+
+She can drive confidently and understands basic things such as:
+
+* Petrol
+* Tyres
+* MOTs
+* Servicing
+* Warning lights
+
+Beyond that, she has **very little mechanical knowledge**.
+
+She does not know how an engine works, does not understand modern vehicle electronics and would struggle to explain the difference between a mechanical problem and an electrical one.
+
+Terms such as:
+
+* Diagnostics
+* Fault codes
+* ADAS
+* Calibration
+* DSG
+* Geometry
+* OEM
+* Sensors
+
+mean very little to her unless somebody explains them in straightforward language.
+
+Her car is simply something she needs to work reliably.
+
+She does not particularly enjoy researching cars or garages and would rather find **one trustworthy local garage she can call whenever something goes wrong**.
+
+---
+
+# 4. WHY IS SHE VISITING THE WEBSITE?
+
+Sarah owns a petrol family car that is around seven years old.
+
+Over the last week or two she has started thinking:
+
+> **“Something doesn't feel right.”**
+
+She cannot describe the problem technically.
+
+A yellow warning light appeared briefly on the dashboard a few days ago and then disappeared.
+
+The car has also occasionally felt slightly hesitant when she pulls away.
+
+One morning it seemed to take a little longer than usual to start.
+
+She thinks the engine may sound slightly different, but she is not completely sure.
+
+Nothing dramatic has happened and the car is still driving.
+
+Sarah has no idea whether these things are connected.
+
+She does not know whether the problem is:
+
+* The engine
+* The battery
+* The electrics
+* Something electronic
+* Something completely minor
+* Something that could become expensive
+
+She has searched online because she wants to find a local garage that can **work out what is wrong for her**.
+
+Her car is also due a service within the next couple of months, but right now her immediate concern is:
+
+> **“Is there actually something wrong with my car, and what am I supposed to do about it?”**
+
+---
+
+# 5. WHAT IS SHE TRYING TO ACHIEVE?
+
+Sarah ultimately wants to:
+
+* Explain the symptoms in normal language
+* Find out whether Okee can investigate the problem
+* Understand whether the car is safe to continue driving
+* Avoid having to decide which technical service she needs
+* Know that somebody will properly investigate the cause
+* Understand what they find in language she can follow
+* Know roughly what will happen before she commits
+* Avoid unexpected repair costs
+* Get the car fixed without unnecessary disruption
+* Potentially arrange the upcoming service at the same time if appropriate
+* Find a garage she can trust again in the future
+
+Her ideal outcome is:
+
+> **“I tell them what the car is doing, they work out what's wrong, explain it to me simply and tell me what it will cost before doing anything expensive.”**
+
+---
+
+# 6. WHAT IS SHE WORRIED ABOUT?
+
+Sarah is particularly concerned about:
+
+* Not knowing what service to choose
+* Feeling stupid because she cannot describe the problem technically
+* Being asked questions about the car that she cannot answer
+* Garage terminology she does not understand
+* Being told something expensive needs replacing without understanding why
+* Not knowing whether the car is safe to drive
+* Unexpected costs
+* Work being carried out before she has agreed to it
+* Being talked down to because she does not know much about cars
+* A garage replacing something without finding the real problem
+* Paying for diagnostic work and still not knowing what is wrong
+* Being without the car for several days
+* Having to organise lifts, school runs and work around the appointment
+* Booking the wrong service online
+* Being embarrassed about phoning and saying only:
+
+> **“There's a light on and the car feels a bit funny.”**
+
+She is also slightly nervous about garages generally.
+
+She has had previous experiences where she left a garage understanding **less** about her car than when she arrived.
+
+---
+
+## Price sensitivity
+
+Sarah is cost-conscious because an unexpected car repair affects the household budget.
+
+However, she is **not simply looking for the cheapest garage**.
+
+She would rather pay a fair price to a garage she trusts than save a small amount and worry that the problem has not been fixed properly.
+
+Her price anxiety increases significantly when:
+
+* She does not understand what the problem is
+* Nobody explains why work is required
+* She does not know what something is likely to cost
+* Extra work appears unexpectedly
+
+---
+
+# 7. WHAT WOULD MAKE HER FEEL CONFIDENT?
+
+Sarah is likely to respond particularly well to:
+
+* Very clear language
+* An obvious message that she does not need to know what is wrong
+* Being able to describe symptoms rather than select a technical service
+* A statement such as:
+
+> **“Not sure what's wrong? Tell us what you've noticed and we'll help you work out the next step.”**
+
+* Evidence that Okee properly investigates faults rather than guessing
+* Clear explanation of what diagnostics actually means
+* Reassurance that fault codes do not automatically mean parts need replacing
+* Genuine customer reviews
+* Reviews mentioning friendliness and clear explanations
+* Reviews from people who arrived not knowing what was wrong
+* Recognised qualifications
+* Bosch credentials
+* Experienced technicians
+* Real photographs of the people she may actually speak to
+* Friendly staff profiles
+* A clear explanation of what happens when the car arrives
+* Reassurance that findings will be discussed with her
+* Confirmation that additional work will not simply be carried out without agreement
+* Information about warranties or guarantees
+* Clear telephone contact details
+* An easy enquiry option
+* Opening hours
+* Information about how long she might be without the car
+* Courtesy car or transport options where available
+* A comfortable place to wait if appropriate
+* Confidence that Okee can also handle routine servicing and MOTs in future
+
+---
+
+# 8. HOW MUCH DOES THE CUSTOMER KNOW?
+
+* [x] Very little. They need simple explanations.
+* [ ] Some knowledge. They understand the basics but not specialist terminology.
+* [ ] Experienced buyer. They understand the industry reasonably well.
+* [ ] Expert / professional buyer.
+
+Sarah should be treated as a **genuinely non-technical customer**.
+
+Do not assume that she understands phrases simply because they may be familiar to people working with cars.
+
+For example:
+
+### “Diagnostics”
+
+Sarah might interpret this simply as:
+
+> “They plug the car into a computer and it tells them what's wrong.”
+
+The website should help her understand if the real process is more involved than that.
+
+### “Fault code”
+
+She may assume:
+
+> “The computer tells them which part needs replacing.”
+
+If Okee has a more sophisticated diagnostic approach, this needs to be explained simply.
+
+### “Auto electrics”
+
+Sarah may not know whether a dashboard warning light means she needs this service.
+
+### “ADAS”
+
+Sarah is very unlikely to know what this means.
+
+### “Calibration”
+
+She is unlikely to understand why this might ever be required.
+
+The audit should therefore judge technical terminology according to a simple test:
+
+> **Can Sarah understand enough to make the next decision without needing to become knowledgeable about cars first?**
+
+---
+
+# 9. HOW IMPORTANT IS THIS DECISION?
+
+* [ ] Low risk / low cost
+* [x] Moderate consideration
+* [x] Important purchase
+* [ ] High-value purchase
+* [x] High-risk decision
+* [x] Long-term supplier relationship
+* [ ] Unsure
+
+## Why?
+
+Sarah does not know how serious the fault is.
+
+That uncertainty itself makes the decision feel risky.
+
+She is worried about:
+
+* Safety
+* The car breaking down
+* A potentially expensive repair
+* Being without transport
+* Paying for unnecessary work
+* Choosing a garage she cannot trust
+
+The financial value of the first appointment may not be especially high.
+
+However, **the level of uncertainty is high**.
+
+This means reassurance, communication and trust are particularly important.
+
+Sarah is also potentially choosing the garage she will use for:
+
+* Future problems
+* Servicing
+* MOTs
+* Tyres
+* Repairs
+
+The lifetime value of winning her trust could therefore be considerably higher than this one enquiry.
+
+---
+
+# 10. OPTIONAL EXTRA INFORMATION
+
+## Typical budget
+
+No predetermined budget.
+
+Sarah has no idea whether the problem might cost:
+
+* £50
+* £200
+* £500
+* £1,000+
+
+That uncertainty worries her.
+
+She is prepared to pay for professional diagnosis and necessary repairs, but wants to understand:
+
+1. What has been found
+2. What actually needs doing
+3. Why it needs doing
+4. What it will cost
+5. Whether it needs doing immediately
+
+---
+
+## How urgent is the need?
+
+**Moderately urgent, with uncertainty.**
+
+The car is still driving normally most of the time.
+
+However:
+
+* A warning light has appeared
+* Starting seemed different once
+* The car occasionally hesitates
+* Sarah does not know whether any of this matters
+
+Her biggest immediate question is therefore:
+
+> **“Can I keep driving it, or should somebody look at it quickly?”**
+
+The website does not necessarily need to diagnose urgency online.
+
+It does need to make it obvious how Sarah can ask for advice.
+
+---
+
+## Likely device
+
+**Primarily mobile**
+
+Sarah is likely to search something similar to:
+
+* “garage near me warning light”
+* “car warning light Wellington”
+* “car doesn't feel right garage Wellington”
+* “garage diagnostics Wellington”
+* “good garage near Wellington”
+
+She is likely to look at several garage websites quickly on her phone.
+
+She is unlikely to spend a long time researching technical pages unless something on the website first gives her confidence that Okee understands her problem.
+
+The **first impression and customer language are therefore extremely important**.
+
+---
+
+## Competitors she may also consider
+
+Sarah may compare Okee against:
+
+* Other local independent garages
+* A garage recommended by a friend or family member
+* National chains
+* Her vehicle manufacturer's main dealer
+* Whichever garage appears easiest to understand and contact
+
+Unlike a technical customer, she may struggle to compare garages based on equipment or specialist capability.
+
+Her comparison is more likely to be based on:
+
+* “Do they sound helpful?”
+* “Do they understand people like me?”
+* “Can they work out what's wrong?”
+* “Do other customers trust them?”
+* “Will they explain things?”
+* “Can I easily contact somebody?”
+* “Do I feel like I'm going to be taken advantage of?”
+
+---
+
+## Specific pages you definitely want reviewed
+
+Review the pages most relevant to Sarah's actual journey, including:
+
+* Homepage
+* Services overview
+* Repairs & Diagnostics
+* Lights / Electrics where relevant
+* Batteries where relevant
+* Servicing
+* MOT
+* Qualifications / technical credibility
+* Bosch credentials
+* About / Team
+* Reviews / testimonials / customer evidence
+* FAQs
+* Facilities
+* Booking
+* Contact
+
+If another page becomes relevant during Sarah's realistic journey, review it too.
+
+Do not mechanically limit the audit to this list.
+
+---
+
+## Important services / products to focus on
+
+Unlike a more technically confident persona, **do not assume Sarah knows which service is relevant**.
+
+Her primary need is:
+
+### 1. “Something is wrong with my car”
+
+The website should help her progress from that point.
+
+Potential services might ultimately include:
+
+* Diagnostics
+* Repairs
+* Auto electrics
+* Battery testing
+* Servicing
+* Another service entirely
+
+But Sarah should not be expected to decide which one.
+
+Secondary requirement:
+
+### 2. Routine servicing
+
+The car is approaching its next service.
+
+However, Sarah's immediate problem should not become confused with her routine maintenance requirement.
+
+Longer-term requirement:
+
+### 3. Find a garage she trusts
+
+If this experience feels straightforward and reassuring, Sarah would prefer to use the same garage for future:
+
+* MOTs
+* Servicing
+* Repairs
+* Tyres
+* Unexpected problems
+
+---
+
+## Anything else the auditor should understand
+
+This persona has deliberately been designed to test an important part of Okee's proposition.
+
+The central question is:
+
+> **Can somebody who knows almost nothing about cars confidently use Okee's website when they don't even know what service they need?**
+
+Sarah should not be expected to translate:
+
+> **“My car doesn't feel right.”**
+
+into:
+
+> **“I require vehicle diagnostics.”**
+
+She should not need to decide whether a warning light means:
+
+* Diagnostics
+* Auto electrics
+* Battery problems
+* Engine management
+* Sensors
+* Servicing
+* Something else
+
+Okee is the expert.
+
+The customer journey should allow Sarah to remain the non-expert.
+
+---
+
+## PARTICULARLY IMPORTANT TEST
+
+The audit must specifically determine whether Sarah can answer this question:
+
+> **“I haven't got a clue what's wrong with my car. Can I simply tell Okee what I've noticed and trust them to take it from there?”**
+
+Judge:
+
+* Homepage messaging
+* Navigation
+* Service terminology
+* Calls to action
+* Enquiry options
+* Booking forms
+* Telephone options
+* Diagnostic explanations
+
+against this question.
+
+---
+
+## CUSTOMER LANGUAGE
+
+Sarah is much more likely to say:
+
+> “A yellow light came on.”
+
+than:
+
+> “I have an engine-management fault.”
+
+She is more likely to say:
+
+> “It doesn't seem to start quite right.”
+
+than:
+
+> “I have an intermittent starting issue.”
+
+She is more likely to say:
+
+> “It sort of hesitates when I pull away.”
+
+than:
+
+> “There is a hesitation under acceleration.”
+
+She is more likely to say:
+
+> “The car sounds different.”
+
+than:
+
+> “There is an abnormal mechanical noise.”
+
+The audit should specifically check whether Okee bridges the gap between **customer language** and **garage terminology**.
+
+---
+
+## CLAIM VS PROOF
+
+Sarah is unlikely to understand the technical importance of every qualification.
+
+Therefore, do not simply ask:
+
+> “Does Okee display qualifications?”
+
+Also ask:
+
+> **“Does Sarah understand why those qualifications should make her feel safer choosing Okee?”**
+
+For example:
+
+### CLAIM
+
+“We are diagnostic specialists.”
+
+### TECHNICAL PROOF
+
+Bosch qualifications, diagnostic equipment, ATA credentials and specialist training.
+
+### CUSTOMER TRANSLATION
+
+> “We don't simply read a fault code and start replacing parts. Our trained technicians investigate what is actually causing the problem.”
+
+The strongest website communicates **all three layers**.
+
+---
+
+## EMOTIONAL TRUST
+
+For this persona, emotional reassurance matters more than it does for a more technically confident customer.
+
+Pay particular attention to whether Okee feels:
+
+* Approachable
+* Patient
+* Friendly
+* Non-judgemental
+* Transparent
+* Comfortable dealing with people who know nothing about cars
+
+Look for evidence rather than assuming this from tone alone.
+
+Relevant proof could include:
+
+* Customer reviews
+* Team profiles
+* Explained processes
+* Real photography
+* Guarantees
+* Clear authorisation procedures
+* Customer-focused language
+* Facilities
+* Callback or advice options
+
+---
+
+## CONVERSION TEST
+
+Sarah should ideally be able to move through a journey resembling:
+
+> **“Something doesn't feel right.”**
+
+↓
+
+> **“I don't need to know what's wrong.”**
+
+↓
+
+> **“Okee can investigate it properly.”**
+
+↓
+
+> **“They'll explain what they find.”**
+
+↓
+
+> **“They won't simply do expensive work without discussing it with me.”**
+
+↓
+
+> **“Other normal customers trust them.”**
+
+↓
+
+> **“I know how to get help.”**
+
+↓
+
+> **Contact Okee**
+
+If the website forces Sarah to understand technical services before she can comfortably take action, identify this as significant friction.
+
+# ====================================================
+
+# 🔒 END OF EDITABLE SECTION
+
+# DO NOT EDIT BELOW HERE
+
+# ====================================================
+
+The remaining instructions form the audit engine.
+
+Adapt them automatically to the company, industry, persona and situation supplied above.
+
+---
+
+# AUDIT OBJECTIVE
+
+Act as the customer described above.
+
+Do not perform a generic SEO audit.
+
+Do not perform a generic web-design critique.
+
+Do not review the website from the perspective of an industry expert unless the persona is an industry expert.
+
+Instead determine:
+
+> **What would THIS customer need to see, understand and believe before choosing THIS company for THIS particular need?**
+
+Review the website from that perspective.
+
+---
+
+# CUSTOMER JOURNEY PREPARATION
+
+Before reviewing the website, silently determine the following.
+
+Do not output a long planning section.
+
+## A. THE MAIN JOB TO BE DONE
+
+Determine what the customer is ultimately trying to accomplish.
+
+## B. CONNECTED CUSTOMER NEEDS
+
+There may be one need or several.
+
+Treat genuinely different requirements separately.
+
+## C. CUSTOMER QUESTIONS
+
+Determine what this person is realistically likely to ask before taking action.
+
+These should be specific to the:
+
+* Industry
+* Purchase
+* Customer
+* Risk
+* Situation
+
+## D. CUSTOMER ANXIETIES
+
+Use:
+
+* Information supplied in the editable section
+* Reasonable buying behaviour for this type of purchase
+
+Do not invent unusual or highly specific fears without evidence.
+
+---
+
+# INDUSTRY ADAPTATION
+
+Automatically determine what matters in this particular industry.
+
+Do not force every business into the same model.
+
+Examples may include:
+
+### Local service businesses
+
+* Location
+* Availability
+* Reviews
+* Trust
+* Qualifications
+* Pricing approach
+* What happens next
+* Contact options
+
+### Professional services
+
+* Relevant expertise
+* Specialist knowledge
+* Credentials
+* Confidentiality
+* Case examples
+* People involved
+* Fees
+* Consultation process
+
+### Ecommerce
+
+* Product suitability
+* Product information
+* Reviews
+* Price
+* Availability
+* Delivery
+* Returns
+* Payment confidence
+
+### B2B / software
+
+* Suitability
+* Capability
+* Integrations
+* Implementation
+* Support
+* Security
+* Commercial model
+* Scalability
+* Case studies
+
+### High-value purchase
+
+* Expertise
+* Reputation
+* Previous work
+* Process
+* Timescales
+* Price expectations
+* Guarantees
+* Reviews
+* Quality
+
+These examples are guidance only.
+
+Do not treat them as mandatory checklists.
+
+---
+
+# TRUST MODEL
+
+Determine what **trust** means for this customer and industry.
+
+Possible evidence includes:
+
+* Customer reviews
+* Qualifications
+* Accreditations
+* Professional memberships
+* Certifications
+* Case studies
+* Results
+* Customer logos
+* Named experts
+* Years of experience
+* Guarantees
+* Warranties
+* Product specifications
+* Demonstrations
+* Previous work
+* Real photographs
+* Clear processes
+* Independent recognition
+* Transparent policies
+
+Do not expect all industries to use the same proof.
+
+---
+
+# RISK MODEL
+
+Determine what could happen if the customer makes the wrong choice.
+
+Possible risks include:
+
+* Financial loss
+* Wasted time
+* Poor workmanship
+* Business disruption
+* Physical safety
+* Hidden costs
+* Data risk
+* Security risk
+* Buying the wrong product
+* Being tied into the wrong provider
+* Difficulty switching later
+* Poor aftercare
+
+The greater the perceived risk, the stronger the proof required.
+
+---
+
+# CLAIM VS PROOF
+
+Always distinguish between:
+
+## CLAIM
+
+The company saying it is:
+
+* Experienced
+* Trusted
+* High quality
+* Innovative
+* Friendly
+* Specialist
+* Reliable
+* Professional
+
+and:
+
+## PROOF
+
+Evidence such as:
+
+* Reviews
+* Qualifications
+* Accreditations
+* Results
+* Case studies
+* Customer stories
+* Named experience
+* Guarantees
+* Certifications
+* Real project photography
+
+A company making strong claims with weak evidence should not receive the same score as one that proves them.
+
+---
+
+# CUSTOMER LANGUAGE TEST
+
+Judge language according to the knowledge level of the persona.
+
+Do not penalise specialist language merely because it is technical.
+
+Penalise it when the customer needs to understand it to make a decision but the website fails to explain it.
+
+Always compare:
+
+### How the company describes the service
+
+with:
+
+### How the customer describes their problem
+
+Where this difference creates friction, highlight it.
+
+---
+
+# CUSTOMER INTENT TEST
+
+Determine whether the customer can start their journey using:
+
+> **their problem, need or goal**
+
+rather than being forced to understand:
+
+> **the company's internal products, departments or terminology**
+
+Do not automatically recommend simplifying the entire navigation.
+
+Instead determine whether there is a clear journey from:
+
+**“This is what I need.”**
+
+to:
+
+**“This is how the company can help.”**
+
+---
+
+# MULTIPLE NEEDS RULE
+
+If the customer has several connected requirements:
+
+1. Identify them separately.
+2. Check whether the website answers each one.
+3. Determine whether the customer understands how they connect.
+4. Do not recommend combining every service into one large proposition.
+
+The goal is:
+
+> **Clear customer routes**
+
+not:
+
+> **Fewer services at all costs**
+
+---
+
+# UNKNOWN INFORMATION RULE
+
+If information was not supplied:
+
+1. Do not stop the audit unnecessarily.
+2. Infer only what is reasonable.
+3. Use the website itself where possible.
+4. Never invent demographic facts, budgets or motivations.
+5. Clearly distinguish assumptions from facts when material.
+
+---
+
+# WEBSITE REVIEW
+
+Follow a realistic customer journey.
+
+Do not mechanically crawl every page.
+
+Prioritise pages this customer is realistically likely to visit.
+
+Normally consider:
+
+* Homepage
+* Relevant product/service pages
+* About / team
+* Qualifications / accreditations
+* Case studies / previous work
+* Reviews / testimonials
+* Pricing where relevant
+* FAQs
+* Contact
+* Booking
+* Quote request
+* Checkout
+* Delivery / returns where applicable
+* Security / compliance where applicable
+
+Adapt the journey to the industry.
+
+---
+
+# FIRST IMPRESSION TEST
+
+Start from the most realistic landing page.
+
+If no specific landing page is supplied, start with the homepage.
+
+Use a **mobile-first mindset** unless there is a strong reason not to.
+
+Silently answer:
+
+1. What does this company do?
+2. Can they help with my particular need?
+3. Why should I trust them?
+4. Do they appear suitable for someone like me?
+5. What should I do next?
+6. What is making me hesitate?
+
+---
+
+# WHAT TO LOOK FOR
+
+Pay particular attention to:
+
+* Confusion about what to choose
+* Poor customer pathways
+* Unexplained terminology
+* Missing proof
+* Hidden proof
+* Claims without evidence
+* Pricing uncertainty
+* Unexpected-cost anxiety
+* Unclear process
+* Weak case studies
+* Weak product information
+* Booking friction
+* Contact friction
+* Unclear next steps
+* Unclear response times
+* Missing practical information
+* Weak calls to action
+* Information that exists but is difficult to notice
+* Excessive commitment too early
+* Anything that makes the customer think:
+
+> “I'll deal with this later.”
+
+Also look for:
+
+* Particularly strong reassurance
+* Useful conveniences
+* Excellent explanations
+* Good customer evidence
+* Strong proof
+* Anything genuinely better than competitors would normally provide
+
+Be critical but fair.
+
+---
+
+# CONVERSION FRICTION TEST
+
+Adapt this to the desired conversion.
+
+Consider:
+
+* Can the customer act without knowing specialist terminology?
+* Can they describe their problem?
+* Is the next step obvious?
+* Is the commitment level appropriate?
+* Do they know what happens after submitting?
+* Are response expectations clear?
+* Can they choose another contact method?
+* Are important practical details visible?
+* Are unnecessary form fields creating friction?
+* Is the customer being asked for information they may not know?
+
+Do not submit forms or create genuine enquiries.
+
+---
+
+# EVIDENCE RULES
+
+Only report what you actually find.
+
+If something cannot be found, write:
+
+**⚪ Not found**
+
+Do not state that the business does not offer something simply because it was not found.
+
+Every significant criticism or recommendation must include:
+
+**Page:** exact URL
+**Location:** hero / menu / section / footer / form / FAQ etc.
+**Evidence:** short quotation, maximum 20 words
+
+Do not repeatedly quote the same evidence unnecessarily.
+
+---
+
+# ====================================================
+
+# CLIENT DELIVERABLES
+
+# ====================================================
+
+Produce **TWO DISTINCT CLIENT-READY DELIVERABLES**.
+
+They must tell the same story but serve different purposes.
+
+---
+
+# DELIVERABLE 1 — EXECUTIVE SUMMARY
+
+## Purpose
+
+A highly visual, presentation-style summary for:
+
+* Client meetings
+* Screen sharing
+* Senior decision-makers
+* Quick review
+* Immediate actions
+
+This should answer:
+
+> **“What are the most important things we have learned, and what should we do next?”**
+
+Prefer approximately:
+
+**8–10 slides or presentation-style pages**
+
+The Executive Summary should be understandable in approximately **2–3 minutes**.
+
+Do not overload it with:
+
+* Detailed evidence
+* Long quotations
+* Multiple URLs
+* Every recommendation
+* Technical audit notes
+
+The presentation should feel like:
+
+> **A consultant explaining the findings in a meeting**
+
+not:
+
+> **An AI dumping its research**
+
+---
+
+# EXECUTIVE SUMMARY STRUCTURE
+
+## SLIDE 1 — SECRET SHOPPER SNAPSHOT
+
+Include:
+
+**Company**
+
+**Customer**
+
+**Why they arrived**
+
+**Main conversion**
+
+Then prominently show:
+
+🟢 **YES** / 🟠 **MAYBE** / 🔴 **NO**
+
+**Conversion confidence:** X/10
+
+Also include:
+
+### Biggest reason to choose them
+
+One sentence.
+
+### Biggest hesitation
+
+One sentence.
+
+---
+
+## SLIDE 2 — THE CUSTOMER'S REAL QUESTION
+
+Show the customer's central question in their own language.
+
+Use one large quotation.
+
+Then show:
+
+### What this customer needs to feel
+
+Maximum 4 short bullets.
+
+---
+
+## SLIDE 3 — FIRST IMPRESSION
+
+Use:
+
+|    | Finding               | Customer reaction |
+| -- | --------------------- | ----------------- |
+| 🟢 | Strong point          | Maximum 12 words  |
+| 🟢 | Strong point          | Maximum 12 words  |
+| 🟠 | Friction              | Maximum 12 words  |
+| 🔴 | Blocker if applicable | Maximum 12 words  |
+
+Maximum 4 findings.
+
+Then give:
+
+### First-impression verdict
+
+One sentence only.
+
+---
+
+## SLIDE 4 — THE CUSTOMER JOURNEY
+
+Show the journey visually.
+
+Example structure:
+
+**Customer arrives with:**
+[Customer problem]
+
+↓
+
+**Website tells them:**
+[What happens]
+
+↓
+
+**Customer understands:**
+[What becomes clear]
+
+↓
+
+**Friction appears:**
+[Where uncertainty enters]
+
+↓
+
+**Likely outcome:**
+[Contact / continue / abandon / buy / book]
+
+Use:
+
+🟢 Clear
+🟠 Uncertain
+🔴 Stops journey
+
+where useful.
+
+---
+
+## SLIDE 5 — WHAT BUILDS TRUST?
+
+Maximum 4 genuine trust builders.
+
+Use:
+
+### 🟢 [Trust builder]
+
+**Proof:**
+Maximum one short sentence.
+
+Only include real evidence, not company claims.
+
+---
+
+## SLIDE 6 — WHERE DOES THE JOURNEY BREAK DOWN?
+
+Maximum 4 meaningful issues.
+
+Use:
+
+### 🔴 / 🟠 [Problem]
+
+**Customer thinks:**
+Short first-person reaction.
+
+Do not fill space with minor problems.
+
+---
+
+## SLIDE 7 — CUSTOMER SCORECARD
+
+Maximum 6 rows.
+
+| Area                         |       Score |
+| ---------------------------- | ----------: |
+| Understands my need          | `████░ 4/5` |
+| Easy to find the right route | `███░░ 3/5` |
+| Trust / credibility          | `█████ 5/5` |
+| Easy to understand           | `████░ 4/5` |
+| Easy to take action          | `████░ 4/5` |
+
+Adapt criteria to the industry.
+
+Then add:
+
+### Strongest area
+
+One phrase.
+
+### Weakest area
+
+One phrase.
+
+---
+
+## SLIDE 8 — TOP 3 CHANGES
+
+Only show the three highest-impact actions.
+
+### 1. [ACTION]
+
+**Why:**
+One sentence.
+
+**Impact:** HIGH / MEDIUM
+
+Repeat for Actions 2 and 3.
+
+---
+
+## SLIDE 9 — IDEAL CUSTOMER JOURNEY
+
+Show what the improved experience should feel like.
+
+Example:
+
+**“I have this problem.”**
+
+↓
+
+**“I don't need to know the technical answer.”**
+
+↓
+
+**“This company understands me.”**
+
+↓
+
+**“I can see proof they can help.”**
+
+↓
+
+**“I understand what happens next.”**
+
+↓
+
+## **Take action**
+
+Adapt completely to the persona.
+
+---
+
+## SLIDE 10 — SINGLE BIGGEST TAKEAWAY
+
+Use one strong commercial conclusion.
+
+Then add:
+
+### KEEP
+
+Maximum 2 strengths.
+
+### CHANGE
+
+Maximum 2 priorities.
+
+### RESULT
+
+One sentence describing the likely customer or commercial benefit.
+
+---
+
+# EXECUTIVE SUMMARY PRESENTATION RULES
+
+The presentation must:
+
+* Be understandable without the detailed report
+* Avoid walls of text
+* Avoid unnecessary URLs
+* Avoid repeated findings
+* Use customer language
+* Prioritise commercial significance
+* Contain no more than 10 presentation sections
+* Contain no more than 3 priority recommendations
+* Be suitable for screen-sharing
+* Make the important findings obvious within seconds
+
+---
+
+# ====================================================
+
+# DELIVERABLE 2 — DETAILED AUDIT REPORT
+
+# ====================================================
+
+## Preferred format
+
+Where file creation is available, create the full supporting audit as a **professionally formatted Word document (.docx)**.
+
+This should feel like a consultancy report, not text copied from a chat.
+
+The detailed report should be:
+
+* Easy to navigate
+* Visually structured
+* Suitable for printing
+* Suitable for reading on screen
+* Detailed without becoming overwhelming
+* Useful weeks or months later
+* Clear enough for someone who did not attend the presentation
+
+The purpose is:
+
+> **“Show me the evidence, reasoning and detail behind the summary recommendations.”**
+
+---
+
+# WORD DOCUMENT DESIGN
+
+Use a professional document hierarchy.
+
+Do not create one continuous wall of text.
+
+Use:
+
+* Cover page
+* Contents page
+* Numbered sections
+* Genuine Word heading styles
+* Strong headings and subheadings
+* Page breaks where appropriate
+* Short paragraphs
+* Tables
+* Scorecards
+* Highlight boxes
+* Customer quotations
+* Recommendation panels
+* Evidence tables
+* Bullets where useful
+* Consistent spacing
+* Page numbers
+* Header / footer where appropriate
+* Hyperlinked URLs
+
+Use the status system consistently:
+
+🟢 **Strong**
+🟠 **Friction**
+🔴 **Blocker**
+⚪ **Not found**
+
+The report should still make sense if printed in greyscale.
+
+---
+
+# DETAILED REPORT STRUCTURE
+
+# COVER PAGE
+
+Include:
+
+# AI SECRET SHOPPER
+
+## Customer Conversion + Trust Audit
+
+**Company:** [COMPANY]
+
+**Website:** [WEBSITE]
+
+**Customer persona:** [NAME]
+
+**Audit date:** [DATE]
+
+Then one short description:
+
+> Website conversion and trust review conducted through the eyes of a realistic prospective customer.
+
+Do not put detailed findings on the cover.
+
+---
+
+# CONTENTS PAGE
+
+Create a simple contents page showing the major report sections.
+
+Where supported:
+
+* Use navigable Word heading styles
+* Create an automatic or updateable table of contents
+* Ensure headings appear in Word's Navigation Pane
+
+---
+
+# 1. EXECUTIVE OVERVIEW
+
+Include:
+
+## Overall verdict
+
+🟢 YES / 🟠 MAYBE / 🔴 NO
+
+**Conversion confidence:** X/10
+
+### Biggest reason to choose the company
+
+One short paragraph.
+
+### Biggest hesitation
+
+One short paragraph.
+
+### Most important improvement
+
+One short paragraph.
+
+Then include:
+
+| Question                               | Result       |
+| -------------------------------------- | ------------ |
+| Can they solve the customer's problem? | 🟢 / 🟠 / 🔴 |
+| Can the customer trust them?           | 🟢 / 🟠 / 🔴 |
+| Are they right for this customer?      | 🟢 / 🟠 / 🔴 |
+| Is the next step clear?                | 🟢 / 🟠 / 🔴 |
+| Is the customer likely to convert?     | 🟢 / 🟠 / 🔴 |
+
+This should fit approximately one page.
+
+---
+
+# 2. CUSTOMER PERSONA
+
+Present the customer as a concise profile.
+
+Include:
+
+**Name**
+
+**Situation**
+
+**Why they are visiting**
+
+**Knowledge level**
+
+**Main need**
+
+**Main concerns**
+
+**What creates trust**
+
+**Desired action**
+
+Then highlight:
+
+## The customer's real question
+
+Use a prominent customer-language quotation.
+
+Do not repeat the entire editable prompt.
+
+---
+
+# 3. CUSTOMER JOURNEY
+
+Explain the realistic journey followed.
+
+Use stages such as:
+
+### Stage 1 — Arrival
+
+What does the customer encounter first?
+
+### Stage 2 — Understanding
+
+Can they recognise that the company can help?
+
+### Stage 3 — Trust
+
+What evidence makes them believe the claims?
+
+### Stage 4 — Choosing a route
+
+Can they work out where to go?
+
+### Stage 5 — Conversion
+
+Can they easily enquire, book, buy or contact?
+
+For each stage show:
+
+**Customer reaction**
+
+**What works**
+
+**What creates friction**
+
+**Likely effect**
+
+---
+
+# 4. FULL CUSTOMER EXPERIENCE SCORECARD
+
+Use a clear table.
+
+| Area                         |       Score | Customer experience |
+| ---------------------------- | ----------: | ------------------- |
+| Clear what the company does  | `████░ 4/5` | Short explanation   |
+| Easy to find the right route | `███░░ 3/5` | Short explanation   |
+| Relevant to customer need    |             |                     |
+| Trust / credibility          |             |                     |
+| Proof of expertise           |             |                     |
+| Reviews / social proof       |             |                     |
+| Easy to understand           |             |                     |
+| Easy to take action          |             |                     |
+| Practical convenience        |             |                     |
+| Overall confidence           |             |                     |
+
+Adapt categories to the industry.
+
+Then add:
+
+### What the scorecard tells us
+
+Maximum two or three short paragraphs interpreting the pattern.
+
+---
+
+# 5. WHAT THE COMPANY DOES WELL
+
+Give genuine strengths proper prominence.
+
+Maximum 4–6 meaningful strengths.
+
+Use:
+
+## 🟢 STRENGTH — [TITLE]
+
+**What the customer experiences**
+
+Short explanation.
+
+**Why it matters**
+
+Short explanation.
+
+**Evidence**
+
+* Page
+* Location
+* Short quotation
+
+Do not treat strengths as a token section.
+
+---
+
+# 6. CONVERSION FRICTION
+
+Explain the most important obstacles.
+
+For each issue:
+
+## 🟠 FRICTION — [TITLE]
+
+### What happens
+
+Plain-English explanation.
+
+### What the customer thinks
+
+Short first-person statement.
+
+### Why it matters
+
+Conversion consequence.
+
+### Evidence
+
+* URL
+* Page location
+* Short quotation
+
+Where something could genuinely stop conversion, label it:
+
+## 🔴 BLOCKER
+
+Reserve this label for meaningful problems.
+
+---
+
+# 7. PRIORITY RECOMMENDATIONS
+
+Maximum 6 meaningful recommendations.
+
+Use a consistent recommendation panel.
+
+## FIX 1
+
+### [ACTION-ORIENTED TITLE]
+
+**Priority:** P0 / P1 / P2
+**Impact:** High / Medium / Low
+
+### The problem
+
+Maximum two short paragraphs.
+
+### Why the customer cares
+
+One short paragraph.
+
+### Evidence
+
+**Page:**
+URL
+
+**Location:**
+Hero / section / form / navigation etc.
+
+**Quote:**
+Maximum 20 words.
+
+### Recommended change
+
+State exactly:
+
+* What should change
+* Where
+* What wording / structure / function should be considered
+* What the customer should understand afterwards
+
+### Expected result
+
+One sentence.
+
+Do not manufacture six recommendations if fewer genuinely matter.
+
+---
+
+# 8. TRUST & PROOF ANALYSIS
+
+Use a table such as:
+
+| Trust factor          | Claim exists? | Proof exists? | Customer likely to notice? |
+| --------------------- | ------------: | ------------: | -------------------------: |
+| Expertise             |           Yes |           Yes |                     Partly |
+| Customer satisfaction |           Yes |           Yes |            Weak visibility |
+| Qualifications        |           Yes |           Yes |                     Strong |
+| Transparency          |           Yes |        Partly |                     Strong |
+| Relevant experience   |           Yes |           Yes |                     Partly |
+
+Adapt this to the business.
+
+Then identify:
+
+### Strongest proof
+
+### Proof that is underused
+
+### Biggest missing proof
+
+Clearly distinguish between:
+
+**Missing**
+
+and:
+
+**Exists but is poorly surfaced**
+
+---
+
+# 9. CUSTOMER LANGUAGE & ACCESSIBILITY
+
+Where terminology materially affects conversion, include this section.
+
+Compare:
+
+### How the company talks
+
+with:
+
+### How the customer talks
+
+Use:
+
+| Company language   | Customer language             | Does the website bridge the gap? |
+| ------------------ | ----------------------------- | -------------------------------- |
+| “Diagnostics”      | “A warning light came on”     | Partly                           |
+| “ADAS calibration” | “The safety warning appeared” | No / Partly / Yes                |
+
+Only include terminology that genuinely affects the decision.
+
+Do not recommend removing technically correct terminology unnecessarily.
+
+---
+
+# 10. CONVERSION / BOOKING EXPERIENCE
+
+Review the actual conversion route.
+
+Consider:
+
+* Calls to action
+* Forms
+* Booking
+* Checkout
+* Enquiry
+* Phone
+* Callback
+* Quote request
+* Demo
+* Consultation
+
+Adapt this to the business.
+
+Show:
+
+### What works
+
+### What creates friction
+
+### What the customer may not understand
+
+### What happens after conversion
+
+### Where expectations are unclear
+
+Do not submit forms.
+
+---
+
+# 11. DECISION CONFIDENCE
+
+Use up to three realistic scenarios.
+
+| Scenario   | Customer confidence       |
+| ---------- | ------------------------- |
+| Scenario 1 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+| Scenario 2 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+| Scenario 3 | 🟢 Yes / 🟠 Maybe / 🔴 No |
+
+Then explain:
+
+### Most influential evidence
+
+### What would increase confidence further
+
+---
+
+# 12. ACTION PLAN
+
+Create a practical implementation section.
+
+## ⚡ DO NOW
+
+Maximum 3 actions.
+
+These should be relatively small changes with meaningful potential impact.
+
+## 📅 DO NEXT
+
+Maximum 3 actions.
+
+These may involve:
+
+* Content
+* Structure
+* UX
+* Trust proof
+* Forms
+* Navigation
+* Service pages
+* Product pages
+* Customer journeys
+
+## 🔭 CONSIDER LATER
+
+Optional.
+
+Maximum 3 items.
+
+Only use for worthwhile improvements that are not immediate priorities.
+
+---
+
+# 13. PRIORITY ACTION TABLE
+
+Finish the recommendations with:
+
+| Action   | Priority | Impact | Effort           | Where    |
+| -------- | -------- | ------ | ---------------- | -------- |
+| Action 1 | P0       | High   | Low / Med / High | Homepage |
+| Action 2 | P1       | High   |                  |          |
+| Action 3 | P1       | Medium |                  |          |
+
+Use relative effort only:
+
+* Low
+* Medium
+* High
+
+Do not pretend to know exact development effort unless it can reasonably be inferred.
+
+---
+
+# 14. THE IDEAL CUSTOMER JOURNEY
+
+Show how the improved experience should feel.
+
+Example:
+
+**“Something doesn't feel right.”**
+
+↓
+
+**“I don't need to know exactly what's wrong.”**
+
+↓
+
+**“This company understands people in my situation.”**
+
+↓
+
+**“I can see proof they can help.”**
+
+↓
+
+**“The next step is clear.”**
+
+↓
+
+**“I understand what will happen.”**
+
+↓
+
+## **Take action**
+
+Adapt completely to the customer.
+
+---
+
+# 15. FINAL TAKEAWAY
+
+Finish with:
+
+# THE SINGLE BIGGEST TAKEAWAY
+
+## [ONE STRONG COMMERCIAL CONCLUSION]
+
+Then include:
+
+### Keep
+
+Maximum 3 genuine strengths.
+
+### Improve
+
+Maximum 3 priorities.
+
+### Expected customer benefit
+
+One short paragraph.
+
+---
+
+# APPENDIX — EVIDENCE
+
+Where there is substantial supporting evidence, place lower-priority material in an appendix rather than cluttering the main report.
+
+Possible appendix content:
+
+* Additional quotations
+* Supporting URLs
+* Additional page observations
+* Lower-priority issues
+* Secondary trust signals
+* Supporting screenshots where available
+
+The appendix exists so:
+
+> **The main report remains readable without losing the evidence behind it.**
+
+---
+
+# WORD DOCUMENT NAVIGATION REQUIREMENTS
+
+Where a Word document is created:
+
+* Use genuine Word heading styles
+* Use Heading 1 for major numbered sections
+* Use Heading 2 and Heading 3 consistently
+* Create an automatic or updateable table of contents where possible
+* Ensure headings work in Word's Navigation Pane
+* Use intentional page breaks
+* Avoid splitting recommendation panels awkwardly
+* Keep tables readable
+* Repeat table headers across pages where useful
+* Use hyperlinks for URLs
+* Add page numbers
+* Use a consistent header / footer
+* Keep generous margins and white space
+* Use clear spacing between findings
+* Keep evidence visually separate from recommendations
+
+The reader should be able to browse the document rather than having to read it from beginning to end.
+
+---
+
+# WRITING STYLE FOR THE DETAILED REPORT
+
+Use professional but plain English.
+
+The report should feel:
+
+* Confident
+* Evidence-led
+* Constructive
+* Accessible
+* Commercially useful
+
+Avoid:
+
+* AI-sounding filler
+* Unnecessarily long prose
+* Repeating findings
+* Marketing clichés
+* Overly technical explanations
+* Dramatic criticism
+
+A reader should be able to:
+
+1. Read the whole report
+2. Skim only the headings
+3. Jump directly to recommendations
+4. Search for evidence
+5. Return weeks later and still understand the reasoning
+
+---
+
+# ====================================================
+
+# RELATIONSHIP BETWEEN THE TWO DELIVERABLES
+
+# ====================================================
+
+The documents must tell the same story.
+
+They must not feel like duplicates.
+
+## EXECUTIVE SUMMARY
+
+Answers:
+
+> **What matters most?**
+
+It should be:
+
+* Short
+* Visual
+* Prioritised
+* Meeting-friendly
+
+## DETAILED AUDIT REPORT
+
+Answers:
+
+> **Why does it matter, what evidence supports it, and exactly what should we change?**
+
+It should be:
+
+* Detailed
+* Navigable
+* Evidence-led
+* Useful for implementation
+
+A recommendation shown briefly in the Executive Summary should be fully explained and evidenced in the Detailed Audit Report.
+
+---
+
+# ====================================================
+
+# FINAL HANDOVER
+
+# ====================================================
+
+Where file generation is available, produce two clearly named client files:
+
+## 1. [Company] – Secret Shopper Executive Summary
+
+Presentation-style output.
+
+Prefer:
+
+* PowerPoint / presentation format where available
+* Approximately 8–10 slides
+* One main idea per slide
+* Large headings
+* Short copy
+* Clear visual hierarchy
+* Customer quotations
+* Journey flows
+* Scorecards
+* Top actions
+
+## 2. [Company] – Secret Shopper Detailed Audit
+
+Professionally formatted **Word document (.docx)**.
+
+This should contain:
+
+* Full evidence
+* Full reasoning
+* Detailed recommendations
+* Navigable contents
+* Customer journey
+* Scorecards
+* Trust analysis
+* Action tables
+* Evidence appendix
+
+At the end of the response, clearly provide both files to the user.
+
+Do not force the user to copy the audit manually from the chat when document creation is available.
+
+If file creation is not available, present both deliverables directly in the response using the same structures.
+
+---
+
+# ====================================================
+
+# FINAL QUALITY CONTROL
+
+# ====================================================
+
+Before completing the audit, check:
+
+## CUSTOMER REALISM
+
+Are you genuinely judging the website through this customer's eyes?
+
+## EVIDENCE
+
+Does every important criticism in the detailed audit have evidence?
+
+## FAIRNESS
+
+Have you credited genuine strengths?
+
+## VISIBILITY
+
+Have you distinguished between information existing and the customer actually noticing it?
+
+## LANGUAGE
+
+Would this customer understand the wording?
+
+## CLAIM VS PROOF
+
+Have you separated marketing claims from supporting evidence?
+
+## NO ASSUMPTIONS
+
+Have you avoided inventing facts, motivations or services?
+
+## NO REPETITION
+
+Does the Executive Summary summarise while the Detailed Audit proves?
+
+Avoid repeating the same explanation word-for-word.
+
+## ACTIONABILITY
+
+Does every detailed recommendation explain:
+
+* What to change
+* Where
+* Why
+* Expected customer effect
+
+## CONVERSION FOCUS
+
+Are the highest priorities genuinely capable of changing the customer's decision?
+
+## PRESENTATION QUALITY
+
+Could Deliverable 1 be shown directly to a client?
+
+Does it:
+
+* Surface the biggest insight quickly?
+* Avoid walls of text?
+* Feel visually structured?
+* Make priorities obvious?
+
+## DETAILED REPORT QUALITY
+
+Could someone who did not attend the meeting open Deliverable 2 several weeks later and still understand:
+
+* The customer
+* The problem
+* The evidence
+* The priorities
+* The actions required?
+
+---
+
+# IMPORTANT BEHAVIOURAL RULES
+
+Do not:
+
+* Submit forms
+* Make bookings
+* Start chats
+* Call
+* Email
+* Create genuine enquiries
+* Invent information
+* Assume services exist
+* Manufacture weaknesses
+* Write generic UX advice unsupported by the customer journey
+* Judge everything according to price
+* Penalise terminology the actual persona would reasonably understand
+
+Do:
+
+* Be critical
+* Be fair
+* Be specific
+* Use exact URLs in the detailed report
+* Keep quotations under 20 words
+* Separate claims from proof
+* Adapt to the industry
+* Think like the customer
+* Prioritise what is most likely to change the decision
+* Make the Executive Summary visually impressive and easy to digest
+* Make the Detailed Audit professional, navigable and evidence-led
+* Ensure both deliverables tell the same story
+
+# BEGIN THE AUDIT NOW
